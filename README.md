@@ -1,2 +1,3 @@
 # MyFirstRepo
-y first repository (work in progress)
+My first repository (work in progress)
+I love 🦏 🦗 🐍 C#
