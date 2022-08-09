@@ -1,0 +1,10 @@
+COPY&PASTE INTO FOLDER BELOW XML files
+Alternately rename them to use one specific library at a time (yes even while running Rhino + Grasshopper):
+
+grasshopper_gradients.xml
+grasshopper_gradients.01 (or something like that)
+
+Thanks for The Matlab Library goes to Timo Harboe Nielsen
+
+Path to the folder
+C:\Users\YourNAME\AppData\Roaming\Grasshopper
