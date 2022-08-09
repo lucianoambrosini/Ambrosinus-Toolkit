@@ -4,7 +4,7 @@ Alternately rename them to use one specific library at a time (yes even while ru
 grasshopper_gradients.xml
 grasshopper_gradients.01 (or something like that)
 
-Thanks for The Matlab Library goes to Timo Harboe Nielsen
+Thanks to Timo Harboe Nielsen for The Matlab Library
 
 Path to the folder
 C:\Users\YourNAME\AppData\Roaming\Grasshopper
