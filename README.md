@@ -1,5 +1,5 @@
 # Ambrosinus toolkit info
-  My first repository (work in progress) 🦏 🦗 🐍 C#
+  I am building my toolkit bar (work in progress) 🦏 🦗 🐍 C#
   ### Info
   https://github.com/lucianoambrosini/Ambrosinus-Toolkit/wiki
   
