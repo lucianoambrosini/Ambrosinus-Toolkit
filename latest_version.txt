@@ -3,5 +3,5 @@ Ambrosinus-Toolkit latest version is: 1.1.0
 -
 CHANGELOG
 -1 Now the toolkit has the TookitVersion component to show the version and the main changelog (main updates);
-
+-
 -2 HEXtoRGB now can covert also from RGB to HEX values with lowcase and hashtag options;
