@@ -1,5 +1,5 @@
 MAIN INFO
-Ambrosinus-Toolkit latest version is: 1.1.1
+Ambrosinus-Toolkit latest version is: 1.1.0
 -
 CHANGELOG
 v1.1.0 
