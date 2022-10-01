@@ -2,6 +2,10 @@ MAIN INFO
 Ambrosinus-Toolkit latest version is: 1.1.0
 -
 CHANGELOG
--1 Now the toolkit has the TookitVersion component to show the version and the main changelog (main updates);
+v1.1.0 
+-1 GradientGen has been replaced by Ambrosinus-Toolkit project;
+-2 Now the toolkit has the TookitVersion component to show the version and the main changelog (main updates) and above all if you need to install the latest version;
+-3 HEXtoRGB now can covert also from RGB to HEX values with lowcase and hashtag options;
 
--2 HEXtoRGB now can covert also from RGB to HEX values with lowcase and hashtag options;
+v1.0.0
+-GradientGen and Utilities, an internal module part of Ambrosinus-Toolkit project;
