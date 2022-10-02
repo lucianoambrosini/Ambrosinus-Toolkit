@@ -6,6 +6,7 @@ v1.1.0
 -1 "GradientGen" has been replaced by Ambrosinus-Toolkit project;
 -2 Now the toolkit has the "ToolkitVersion" component to show the version and the main changelog (main updates) and above all if you need to install the latest version;
 -3 "HEXtoRGB" now can covert also from RGB to HEX values with lowcase and hashtag options;
+-4 "KelvinToRGB" convert a Kelvin temperature to RGB value (for specific values shows some extra info about devices that emit same temperature);
 
 v1.0.0
 -1 "GradientGen and Utilities", an internal module part of Ambrosinus-Toolkit project;
