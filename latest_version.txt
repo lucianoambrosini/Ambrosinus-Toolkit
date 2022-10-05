@@ -4,9 +4,10 @@ Ambrosinus-Toolkit latest version is: 1.1.0
 CHANGELOG
 v1.1.0 
 -1 "GradientGen" has been replaced by Ambrosinus-Toolkit project;
--2 Now the toolkit has the "ToolkitVersion" component to show the version and the main changelog (main updates) and above all if you need to install the latest version;
+-2 "ToolkitVersion" component - Now the toolkit can show the version and the main changelog (main updates) and above all notifies user if he needs to install the latest version;
 -3 "HEXtoRGB" now can covert also from RGB to HEX values with lowcase and hashtag options;
--4 "KelvinToRGB" convert a Kelvin temperature to RGB value (for specific values shows some extra info about devices that emit same temperature);
+-4 "KelvinToRGB" converts a Kelvin temperature to RGB value (for specific values shows some extra info about devices that emit same temperature);
+-5 "WavelengthToRGB" converts a Wavelength in a visible light range (380nm-780nm) to RGB value;
 
 v1.0.0
 -1 "GradientGen and Utilities", an internal module part of Ambrosinus-Toolkit project;
