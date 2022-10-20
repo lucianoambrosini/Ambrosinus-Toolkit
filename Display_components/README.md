@@ -5,6 +5,6 @@
 <br>
 ## Gradient Generator and Utilities
 ### Info
-https://github.com/lucianoambrosini/Ambrosinus-Toolkit/wiki/Display-components 
+<a href="https://github.com/lucianoambrosini/Ambrosinus-Toolkit/wiki/%5B1%5D-Display-components">Display components full description</a> 
 
 <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/08/GradGen01_.coverjpg.jpg" width="70%" height="70%">
