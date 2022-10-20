@@ -1,6 +1,6 @@
 # Ambrosinus toolkit info
 
-[![GitHub release](https://img.shields.io/badge/release-v1.1.0-blue)](https://bit.ly/Ambrosinus-Toolkit)
+[![GitHub release](https://img.shields.io/badge/release-v1.1.0-blue)](https://github.com/lucianoambrosini/Ambrosinus-Toolkit/blob/main/latest_version.txt)
 [![GitHub release date](https://img.shields.io/badge/release%20date-October-green)](https://bit.ly/Ambrosinus-Toolkit)
 [![GitHub license](https://img.shields.io/github/license/lucianoambrosini/Ambrosinus-Toolkit?color=orange)](https://github.com/lucianoambrosini/Ambrosinus-Toolkit/blob/main/LICENSE)
 
