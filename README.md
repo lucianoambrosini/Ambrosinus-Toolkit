@@ -7,6 +7,9 @@
 
 
 I am building my toolkit bar (work in progress) 🦏 🦗 🐍 C#
+
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/10/logo_AmbrosinusToolkit-02.png" width="20%" height="20%">
+
 ### Info components
 https://github.com/lucianoambrosini/Ambrosinus-Toolkit/wiki
   
