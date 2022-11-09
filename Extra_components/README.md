@@ -5,7 +5,7 @@
 <br>
 
 ## Open AI
-### OpenAI-Dall-E-GH
+### OpenAI_Dall-E_GH
 DALL-E inside Grasshopper with Python and Open AI library
 
 Download: 
