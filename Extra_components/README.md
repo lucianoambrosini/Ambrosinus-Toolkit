@@ -8,7 +8,7 @@
 ### OpenAI_Dall-E_GH
 DALL-E inside Grasshopper with Python and Open AI library
 
-Download: 
+Download: https://github.com/lucianoambrosini/Ambrosinus-Toolkit/tree/main/Extra_components/OpenAI_DALL-E_GH
 
 <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/11/demo_05.jpg" width="70%" height="70%">
 <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/11/demo_01.jpg" width="70%" height="70%">
