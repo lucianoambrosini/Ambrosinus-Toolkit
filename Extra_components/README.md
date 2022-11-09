@@ -28,6 +28,7 @@ Download: https://github.com/lucianoambrosini/Ambrosinus-Toolkit/tree/main/Extra
 <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/09/PopS_v1-4.jpg" width="70%" height="70%">
 Extra info: https://ambrosinus.altervista.org/blog/populate-surface-with-custom-silhouettes
 <br>
+Video demo: https://youtu.be/9VB28EElKRY
 <br>
 <br>
 
@@ -37,3 +38,5 @@ A parametric "trick" to generate infinite kinds of Halloween Pumpkins - "treat"?
 
 <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2018/10/ParametricHalloween_cover.png" width="70%" height="70%">
 Extra info: http://bit.ly/ParamHalloween
+<br>
+Video demo: https://youtu.be/TQvinW7gTrk
