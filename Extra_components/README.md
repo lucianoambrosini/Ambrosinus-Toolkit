@@ -4,6 +4,20 @@
 <br>
 <br>
 
+## Open AI
+### OpenAI-Dall-E-GH
+DALL-E inside Grasshopper with Python and Open AI library
+
+Download: 
+
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/11/demo_01.jpg" width="70%" height="70%">
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/11/demo_02.jpg" width="70%" height="70%">
+Extra info: https://bit.ly/OpenAI-insideGrasshopper
+Video demo: https://youtu.be/qrnbB2wb0PA
+<br>
+<br>
+<br>
+
 ## Modelling
 ### Pops v1
 Populate a surface with custom silhouettes (people or trees)
@@ -16,8 +30,8 @@ Extra info: https://ambrosinus.altervista.org/blog/populate-surface-with-custom-
 <br>
 <br>
 
-## ParametricHalloween
-### PumpkinsGen v1
+## For Fun
+### ParametricHalloween - PumpkinsGen v1
 A parametric "trick" to generate infinite kinds of Halloween Pumpkins - "treat"? leave a like! thanks - A Scary Halloween to All!
 
 <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2018/10/ParametricHalloween_cover.png" width="70%" height="70%">
