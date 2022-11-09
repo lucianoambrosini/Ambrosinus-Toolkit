@@ -10,8 +10,8 @@ DALL-E inside Grasshopper with Python and Open AI library
 
 Download: 
 
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/11/demo_05.jpg" width="70%" height="70%">
 <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/11/demo_01.jpg" width="70%" height="70%">
-<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/11/demo_02.jpg" width="70%" height="70%">
 Extra info: https://bit.ly/OpenAI-insideGrasshopper
 <br>
 Video demo: https://youtu.be/qrnbB2wb0PA
