@@ -1,7 +1,10 @@
 MAIN INFO
-Ambrosinus-Toolkit latest version is: 1.1.0
+Ambrosinus-Toolkit latest version is: 1.1.1
 -
 CHANGELOG
+v1.1.1
+-1 "DALLEfromGH" has been added to the toolkit. Now you can explore AI promp-to-image requesting process directly inside GH;
+
 v1.1.0 
 -1 "GradientGen" has been replaced by Ambrosinus-Toolkit project;
 -2 "ToolkitVersion" component - Now the toolkit can show the version and the main changelog (main updates) and above all notifies user if he needs to install the latest version;
