@@ -3,7 +3,7 @@ Ambrosinus-Toolkit latest version is: 1.1.1
 -
 CHANGELOG
 v1.1.1
--1 "DALLEfromGH" has been added to the toolkit. Now you can explore OpenAI (DALL-E) prompt-to-image requesting process directly inside GH. No Python libraries need to be installed to run OpenAI. It has replaced the LA_OpenAI-GH.ghuser component;
+-1 "DALLEfromGH" has been added to the toolkit. In order to run it the Toolkit uses Json DLL library provided in the installation ZIP file. Now you can explore OpenAI (DALL-E) prompt-to-image requesting process directly inside GH. No Python libraries need to be installed to run OpenAI. It has replaced the LA_OpenAI-GH.ghuser component. 
 
 v1.1.0 
 -1 "GradientGen" has been replaced by Ambrosinus-Toolkit project;
