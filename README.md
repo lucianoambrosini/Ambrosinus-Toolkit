@@ -7,7 +7,8 @@
 [![GitHub license](https://img.shields.io/github/license/lucianoambrosini/Ambrosinus-Toolkit?color=orange)](https://github.com/lucianoambrosini/Ambrosinus-Toolkit/blob/main/LICENSE)
 
 
-I am building my toolkit bar (work in progress) 🦏 🦗 🐍 C#
+
+**Ambrosinus Toolkit** is a grasshopper toolset of components and utilities useful for the user's projects - From design to management. *The most trending feature is the possibility to run DALL-E and StabilityAI requesting processes inside Grasshopper.* Now you can! Please, read below for more info.
 
 <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/10/logo_AmbrosinusToolkit-02.png" width="20%" height="20%">
 
@@ -19,3 +20,5 @@ https://github.com/lucianoambrosini/Ambrosinus-Toolkit/wiki
 <br>
 
 <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/11/GHA_icon-LA.png" width="10%" height="10%"><img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/11/GHUSER_icon-LA.png" width="10%" height="10%"><img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/11/GH_icon-LA.png" width="10%" height="10%">
+
+I am building my toolkit bar (work in progress) 🦏 🦗 🐍 C#
