@@ -10,12 +10,16 @@
 
 **Ambrosinus Toolkit** is a grasshopper toolset of components and utilities useful for the user's projects - From design to management. *The most trending feature is the possibility to run DALL-E and StabilityAI requesting processes inside Grasshopper.* Now you can! Please, read below for more info.
 
-<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/10/logo_AmbrosinusToolkit-02.png" width="20%" height="20%">
+<div align="center">
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/11/logo_AT-AD-02.png" width="30%" height="30%">
+</div>
 
 ### Info components
 https://github.com/lucianoambrosini/Ambrosinus-Toolkit/wiki
   
+<div align="center">
 <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/10/LA_screen_toolbar_04.png" width="90%" height="90%">
+</div>
 
 <br>
 
