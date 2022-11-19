@@ -1,4 +1,4 @@
-### LA_OpenAI-GH.ghuser component has been replaced with "DALLEfromGH" [since v1.1.1]
+### LA_OpenAI-GH.ghuser component (v1) has been replaced with "DALLEfromGH" [since v1.1.1]
 _I suggest to update your Ambrosinus-Toolkit plugin to the latest version it doesn't need any Python libraries installation_
 
 <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/11/DALLE_update.png" width="50%" height="50%">
