@@ -1,7 +1,15 @@
 MAIN INFO
-Ambrosinus-Toolkit latest version is: 1.1.1
+Ambrosinus-Toolkit latest version is: 1.1.2
 -
 CHANGELOG
+v1.1.2
+-1 Subcategory Layout has changed;
+-1 "DALLEfromGH" UI updated with "Light version" info;
+-2 "LA_OpenAI_GHadv" has replaced the CPython "Light version". Now you can experiment the EDIT and VARIATION mode. You can install it via GitHub repo;
+-3 Subcategory Image has added;
+-4 "ImageConv" can read image file info and can convert images to these formats: Bmp, Emf, Exif, Gif, Icon, Jpeg, MemoryBmp, Png, Tiff, Wmf;
+-5 "ImageMask" can generate PNG and JPG image mask simply drawing it inside Rhino over the BaseIMG;
+
 v1.1.1
 -1 "DALLEfromGH" has been added to the toolkit. In order to run it the Toolkit uses Json DLL library provided in the installation ZIP file. Now you can explore OpenAI (DALL-E) prompt-to-image requesting process directly inside GH. No Python libraries need to be installed to run OpenAI. It has replaced the LA_OpenAI-GH.ghuser component (anyway it will always be available on GitHub and you can always install it by following the guide.
 
