@@ -10,8 +10,10 @@ _I suggest always updating your Ambrosinus-Toolkit plugin to the latest version 
 <br>
 <br>
 
-FROM **Food4Rhino** -- > [DOWNLOAD](https://www.food4rhino.com/en/app/ambrosinus-toolkit)
+**ABOUT COMPONENTS**  ---> [WIKI Info](https://github.com/lucianoambrosini/Ambrosinus-Toolkit/wiki/AI-components)
 
-FROM **GitHub**     -- > [DOWNLOAD](https://github.com/lucianoambrosini/Ambrosinus-Toolkit/tree/main/Latest_version)
+FROM **Food4Rhino**   -- > [DOWNLOAD](https://www.food4rhino.com/en/app/ambrosinus-toolkit)
+
+FROM **GitHub**       -- > [DOWNLOAD](https://github.com/lucianoambrosini/Ambrosinus-Toolkit/tree/main/Latest_version)
 
 ### Both components work and are available
