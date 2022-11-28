@@ -11,7 +11,7 @@ Current **LA_OpenAI-GH.ghuser** version: **build-102** (see the build number in 
 _I suggest always updating your Ambrosinus-Toolkit plugin to the latest version as good practice_
 
 <div align="center">
-<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/11/OpenAI_Light_and_ADV_comp-01.jpg" width="50%" height="50%">
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/11/OpenAI_Light_and_ADV_comp-02.jpg" width="50%" height="50%">
 </div>
 <br>
 <br>
