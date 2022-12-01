@@ -2,7 +2,7 @@
 
 If you don't want to install python libraries, you can install Ambrosinus-Toolkit and run the "DALLEfromGH" component [since v1.1.1] it is the same "Light version" but coded in C# language. Anyway, if you want to run the "Advanced version" you still need to install the python libray ([as described here](https://bit.ly/OpenAI-insideGrasshopper)) in order to explore EDIT and VARIATION mode. This because of LA_OpenAI-GHadv.ghuser component has been coded in CPython.
 
-Current **LA_OpenAI-GH.ghuser** version: **build-102** (see the build number in the component description)
+Current **LA_OpenAI-GH.ghuser** version: **build-103** (see the build number in the component description)
 
 <br>
 <br>
