@@ -1,3 +1,14 @@
+### LA_OpenAI-GH_Ask.ghuser "Ask to OpenAI" is coming... Stay tuned!
+
+I am updating this component...WIP
+
+<div align="center">
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/12/LA_OpenAI-GH_Ask_comps.png" width="17%" height="17%">
+</div>
+
+<br>
+<br>
+
 ### LA_OpenAI-GH.ghuser "Light version" component (v1) has been replaced with LA_OpenAI-GHadv.ghuser "Advanced version" component (v2)
 
 If you don't want to install python libraries, you can install Ambrosinus-Toolkit and run the "DALLEfromGH" component [since v1.1.1] it is the same "Light version" but coded in C# language. Anyway, if you want to run the "Advanced version" you still need to install the python libray ([as described here](https://bit.ly/OpenAI-insideGrasshopper)) in order to explore EDIT and VARIATION mode. This because of LA_OpenAI-GHadv.ghuser component has been coded in CPython.
