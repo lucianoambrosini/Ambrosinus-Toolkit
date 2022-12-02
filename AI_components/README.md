@@ -48,3 +48,17 @@ Video demo Advanced version (EDIT mode): https://youtu.be/nmJTP1QvuIE
 Video demo Advanced version (VARIATION mode): https://youtu.be/UPTc5o6rOLM
 <br>
 <br>
+
+### Ask_To_OpenAI for tips
+This ghuser component can execute the requesting process for OpenAI "text completion mode". This AI capability allows designer/users asking for answers or sunmitting instructions to AI.
+
+Download: https://github.com/lucianoambrosini/Ambrosinus-Toolkit/tree/main/AI_components/OpenAI_DALL-E_GH
+
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/12/LA_OpenAI-GHask_demo-04.jpg" width="70%" height="70%">
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/12/LA_OpenAI-GHask_demo-03.jpg" width="70%" height="70%">
+
+Extra info Advanced version: https://bit.ly/OpenAI-QandA-insideGrasshopper
+<br>
+Video demo Advanced version (EDIT mode): https://youtu.be/A5ReBxqf_SI
+<br>
+<br>
