@@ -59,6 +59,6 @@ Download: https://github.com/lucianoambrosini/Ambrosinus-Toolkit/tree/main/AI_co
 
 Extra info Advanced version: https://bit.ly/OpenAI-QandA-insideGrasshopper
 <br>
-Video demo Advanced version (Completion mode): https://youtu.be/A5ReBxqf_SI
+Video demo Ask to OpenAI (Completion mode): https://youtu.be/A5ReBxqf_SI
 <br>
 <br>
