@@ -1,7 +1,11 @@
 MAIN INFO
-Ambrosinus-Toolkit latest version is: 1.1.2
+Ambrosinus-Toolkit latest version is: 1.1.3
 -
 CHANGELOG
+v1.1.3
+-1 "AnsToPrompt" has been added. This component converts the AskToOpenAI answer into a text prompt;
+-2 Developed and added the "AskToOpenAI" component (see GitHub page to install it) to play with OpenAI completion mode, the OpenAI GPT-3 model transforms this component into a super smart "chatBot". I asked for design tips but also for generating a simple piece of code (Python, C# etc.);
+
 v1.1.2
 -1 Subcategory Layout has changed;
 -1 "DALLEfromGH" UI updated with "Light version" info;
