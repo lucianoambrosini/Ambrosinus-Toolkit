@@ -50,7 +50,7 @@ Video demo Advanced version (VARIATION mode): https://youtu.be/UPTc5o6rOLM
 <br>
 
 ### Ask_To_OpenAI for tips (not only) - GPT-3 models
-This ghuser component can execute the requesting process for OpenAI "text completion mode". This AI capability allows designer/users asking for answers or sunmitting instructions to AI, even coding something...
+This ghuser component can execute the requesting process for OpenAI "text completion mode". This AI capability allows designer/users asking for answers or sunmitting instructions to AI, even code something...
 
 Download: https://github.com/lucianoambrosini/Ambrosinus-Toolkit/tree/main/AI_components/OpenAI_DALL-E_GH
 
