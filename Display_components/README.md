@@ -1,6 +1,7 @@
 # Toolkit sub-category "Display"
   Here you will find...Components from category: Ambrosinus // Sub-Category: Display  
 <br>
+### Now has been completely integrated in Ambrosinus-Toolkit plugin
 <br>
 <br>
 ## Gradient Generator and Utilities
