@@ -1,4 +1,4 @@
-### LA_OpenAI-GH_Ask.ghuser "Ask to OpenAI" is coming... Stay tuned!
+### LA_OpenAI-GH_Ask.ghuser "Ask to OpenAI" - base on OpenAI GPT-3 model
 
 Enjoy your personal design exploration! 😉
 
