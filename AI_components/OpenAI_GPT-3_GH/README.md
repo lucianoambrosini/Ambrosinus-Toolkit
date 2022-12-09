@@ -10,3 +10,5 @@ Enjoy your personal design exploration! 😉
 <br>
 
 **ABOUT COMPONENTS**  ---> [Info](https://bit.ly/OpenAI-QandA-insideGrasshopper)
+<br>
+**Video demo Ask to OpenAI for code (GPT-3 model)** --> [Video](https://youtu.be/NU3ILLuBl3g)
