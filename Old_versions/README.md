@@ -5,6 +5,8 @@
 
 <br>
 
+### v1.1.2 --> [go to GHA file](https://github.com/lucianoambrosini/Ambrosinus-Toolkit/tree/main/Old_versions/112)
+
 ### v1.1.1 --> [go to GHA file](https://github.com/lucianoambrosini/Ambrosinus-Toolkit/tree/main/Old_versions/111)
 
 ### v1.1.0 --> [go to GHA file](https://github.com/lucianoambrosini/Ambrosinus-Toolkit/tree/main/Old_versions/110)
