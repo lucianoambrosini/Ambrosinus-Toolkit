@@ -61,4 +61,4 @@ Extra info Ask to OpenAI: https://bit.ly/OpenAI-QandA-insideGrasshopper
 <br>
 Video demo Ask to OpenAI (Completion mode): https://youtu.be/A5ReBxqf_SI
 <br>
-<br>
+Video demo Ask to OpenAI for code (GPT-3 model): https://youtu.be/NU3ILLuBl3g
