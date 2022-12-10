@@ -6,7 +6,7 @@ After StabilityAI updates - this component is again available for your design ex
 
 **1.** Run cmd.exe from Windows;
 <br>
-**2.** write: "pip install stability-sdk --upgrade" (without quote);
+**2.** write: "pip install stability-sdk --upgrade" (without quotes);
 <br>
 <br>
 
