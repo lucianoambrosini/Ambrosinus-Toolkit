@@ -1,6 +1,6 @@
-### LA_OpenAI-GH_Ask.ghuser "Ask to OpenAI" is coming... Stay tuned!
+### LA_OpenAI-GH_Ask.ghuser "Ask to OpenAI"
 
-I am updating this component...WIP
+Ask to OpenAI **build 102** is now available for your design experimentations
 
 <div align="center">
 <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/12/LA_OpenAI-GH_Ask_comps_01.png" width="17%" height="17%">
@@ -13,7 +13,7 @@ I am updating this component...WIP
 
 If you don't want to install python libraries, you can install Ambrosinus-Toolkit and run the "DALLEfromGH" component [since v1.1.1] it is the same "Light version" but coded in C# language. Anyway, if you want to run the "Advanced version" you still need to install the python libray ([as described here](https://bit.ly/OpenAI-insideGrasshopper)) in order to explore EDIT and VARIATION mode. This because of LA_OpenAI-GHadv.ghuser component has been coded in CPython.
 
-Current **LA_OpenAI-GH.ghuser** version: **build-105** (see the build number in the component description)
+Current **LA_OpenAI-GH.ghuser** version: **build-107** (see the build number in the component description) - solved issues about the image saving process.
 
 <br>
 <br>
@@ -22,7 +22,7 @@ Current **LA_OpenAI-GH.ghuser** version: **build-105** (see the build number in 
 _I suggest always updating your Ambrosinus-Toolkit plugin to the latest version as good practice_
 
 <div align="center">
-<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/11/OpenAI_Light_and_ADV_comp-02.jpg" width="50%" height="50%">
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/11/LA_OpenAI-GHadv_comp4.png" width="20%" height="20%">
 </div>
 <br>
 <br>
