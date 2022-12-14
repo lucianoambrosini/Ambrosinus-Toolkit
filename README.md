@@ -18,7 +18,7 @@
 https://github.com/lucianoambrosini/Ambrosinus-Toolkit/wiki
   
 <div align="center">
-<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/10/LA_screen_toolbar_08.png" width="90%" height="90%">
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/10/LA_screen_toolbar_09.png" width="90%" height="90%">
 </div>
 
 <br>
