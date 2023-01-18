@@ -4,7 +4,7 @@
 <br>
 <br>
 
-### StabilityAI_StableDiffusion_GH Build-102
+### StabilityAI_StableDiffusion_GH
 Stable Diffusion inside Grasshopper with Python and Stability AI library from DreamStudio
 
 Download: https://github.com/lucianoambrosini/Ambrosinus-Toolkit/tree/main/AI_components/StabilityAI-DS_GH
