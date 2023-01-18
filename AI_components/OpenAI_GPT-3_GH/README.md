@@ -3,7 +3,7 @@
 Enjoy your personal design exploration! 😉
 
 <div align="center">
-<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/12/LA_OpenAI-GH_Ask_comp_02.png" width="17%" height="17%">
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/12/LA_OpenAI-GH_Ask_comp_03.png" width="17%" height="17%">
 </div>
 
 <br>
