@@ -1,6 +1,8 @@
 ### GrayGaussMask
 Can generate a grayscale image and a blurred one
 
+Current version: **Build 101**
+
 **Download**: currently they are included in Ambrosinus-Toolkit [since v1.1.5]
 
 <div align="center">
