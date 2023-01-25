@@ -1,6 +1,6 @@
 ### LA_StabilityAI-GH.ghuser
 
-**Current Build-105**
+**Current Build-106**
 
 After StabilityAI updates - this component is again available for your design exploring, IMPORTANT! You need to update stability-sdk python library:
 
@@ -12,21 +12,21 @@ After StabilityAI updates - this component is again available for your design ex
 _Enjoy it! (again)_
 <br>
 <br>
-Since **LA_StabilityAI-GH.ghuser** version: **build-105** output files are packed in an IMGs folder (all images), TXTs folder (all text prompts) and finally this build creates a CSV file as LOG output of all the AI requests and generation processes.
+Since **LA_StabilityAI-GH.ghuser** version: **build-106** output files are packed in an IMGs folder (all images), TXTs folder (all text prompts) and finally this build creates a CSV file as LOG output of all the AI requests and generation processes.Now you can run these features: Text-to-Image, Image-to-Image and Image-to-Image Masking, Also added the CLIP guidance feature to drive the image generation.
 
 <div align="center">
-<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/11/LA_StabilityAI-GH_comp_04.png" width="17%" height="17%">
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/01/LA_StabilityAI-GH_comp_05.png" width="17%" height="17%">
 </div>
 <br>
 
-### The component below has been added since Ambrosinus-Toolkit v1.1.4
+### The component below has been added since Ambrosinus-Toolkit v1.1.5
 
 **SD-INinfo**
 
 Downloadable from Food4Rhino or Rhino Package Manager
 
 <div align="center">
-<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/11/SD-INinfo_comps_01.png" width="17%" height="17%">
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/01/LA_StabilityAI-GH_def_b106.png" width="17%" height="17%">
 </div>
 <br>
 
