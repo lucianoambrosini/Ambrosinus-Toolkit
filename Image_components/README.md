@@ -3,6 +3,11 @@ Can generate a grayscale image and a blurred one
 
 Current version: **Build 101**
 
+About GrayGaussMask component **In order to run it you need to install the Python library** as shown here: ***pip install torchvision***
+This library is ~160MB so wait until appear the installation successful message.
+
+<br>
+
 **Download**: currently they are included in Ambrosinus-Toolkit [since v1.1.5]
 
 <div align="center">
