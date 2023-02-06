@@ -1,7 +1,13 @@
 MAIN INFO
-Ambrosinus-Toolkit latest version is: 1.1.5
+Ambrosinus-Toolkit latest version is: 1.1.6
 -
 CHANGELOG
+v1.1.6
+-1 Ambrosinus-Toolkit updated with "SeeOut" component. It can slide the image file path Output by a "SeqID" slider or just see the latest file path generated from OpenAI or StabilityAI GH component;
+-2 Minor fix for LA_StabilityAI-GH component, now at Build-107;
+-3 Minor fix for LA_OpenAI-GH component, now at Build-111;
+-4 Minor fix for LA_OpenAI_Ask-GH component, now at Build-106;
+
 v1.1.5
 -1 Ambrosinus-Toolkit updated with "FileNamer" component. It can generate a filename to avoid overwriting action;
 -2 New version of the "SdINinfo" component. Now able to show different info from StabilityAI image output like BaseIMG and MaskIMG info/links;
