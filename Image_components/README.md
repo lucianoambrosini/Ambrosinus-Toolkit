@@ -19,6 +19,9 @@ https://bit.ly/StabilityAI-insideGrasshopperADV
 <br>
 **Video demo:** 
 https://youtu.be/1VXe-R44nuw
+<br>
+**ALL Image components:** 
+Please see the related Wiki section
 
 <br>
 <br>
