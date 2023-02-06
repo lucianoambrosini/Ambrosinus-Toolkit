@@ -32,4 +32,4 @@ Downloadable from Food4Rhino or Rhino Package Manager
 
 **ABOUT INSTALLATION**  ---> [Info](https://bit.ly/StabilityAI-insideGrasshopper)
 
-**ABOUT BUILD 106 COMPONENTS**  ---> [Info Build 106](https://bit.ly/StabilityAI-insideGrasshopperADV)
+**SINCE BUILD 106 COMPONENTS**  ---> [Info Build 106](https://bit.ly/StabilityAI-insideGrasshopperADV)
