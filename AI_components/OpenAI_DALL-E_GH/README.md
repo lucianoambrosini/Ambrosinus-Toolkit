@@ -14,7 +14,7 @@ Since **LA_OpenAI-GH.ghuser** version: **build-107** (see the build number in th
 _I suggest always updating your Ambrosinus-Toolkit plugin to the latest version as good practice_
 
 <div align="center">
-<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/11/LA_OpenAI-GHadv_comp6.png" width="20%" height="20%">
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/11/LA_OpenAI-GHadv_comp7.png" width="20%" height="20%">
 </div>
 <br>
 <br>
