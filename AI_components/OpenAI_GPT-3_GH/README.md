@@ -1,5 +1,10 @@
 ### LA_OpenAI-GH_Ask.ghuser "Ask to OpenAI" - base on OpenAI GPT-3 model
 
+**Current version: build-106**
+
+<br>
+<br>
+
 Enjoy your personal design exploration! 😉
 
 Since **LA_OpenAI-GH_Ask.ghuser** version: **build-105** output files are packed in an IMGs folder (all images), TXTs folder (all text prompts) and finally this build creates a CSV file as LOG output of all the AI requests and generation processes.
