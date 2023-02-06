@@ -1,6 +1,9 @@
 # Toolkit sub-category "AI"
   Here you will find...Components from category: Ambrosinus // Sub-Category: AI
 <br>
+
+**These components require some python libraries in order to work properly, so take at look to the articles on my website.**
+
 <br>
 <br>
 
