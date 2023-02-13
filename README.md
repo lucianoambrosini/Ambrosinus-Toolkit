@@ -1,6 +1,6 @@
 # Ambrosinus toolkit info
 
-[![GitHub release](https://img.shields.io/badge/release-v1.1.5-blue)](https://github.com/lucianoambrosini/Ambrosinus-Toolkit/blob/main/latest_version.txt)
+[![GitHub release](https://img.shields.io/badge/release-v1.1.7-blue)](https://github.com/lucianoambrosini/Ambrosinus-Toolkit/blob/main/latest_version.txt)
 [![GitHub Food4Rhino](https://img.shields.io/badge/Food4Rhino-plugin-lightgrey)](https://bit.ly/AmbrosinusToolkit_Food4Rhino)
 [![GitHub release date](https://img.shields.io/badge/last%20release%20date-January_2023-green)](https://bit.ly/Ambrosinus-Toolkit)
 [![GitHub support forum](https://img.shields.io/badge/Support%20forum-Help-critical)](https://discourse.mcneel.com/t/ambrosinus-toolkit/147124?u=ambrosinus)
