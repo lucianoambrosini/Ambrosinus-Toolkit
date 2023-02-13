@@ -1,7 +1,10 @@
 MAIN INFO
-Ambrosinus-Toolkit latest version is: 1.1.6
+Ambrosinus-Toolkit latest version is: 1.1.7
 -
 CHANGELOG
+v1.1.7
+-1 "SeeOut" component has been fixed to avoid a loop-action if its output is passed as input in OpenAI or StabilityAI component;
+
 v1.1.6
 -1 Ambrosinus-Toolkit updated with the "SeeOut" component in the Image sub-category. It can slide the image file path Output by a "SeqID" slider or just see the latest file path generated from OpenAI or StabilityAI GH component;
 -2 Minor fix for LA_StabilityAI-GH component, now at Build-107, see the GitHub page to download it. If you already downloaded this build on 2023/02/06, please do it again.
