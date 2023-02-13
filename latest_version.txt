@@ -3,7 +3,7 @@ Ambrosinus-Toolkit latest version is: 1.1.7
 -
 CHANGELOG
 v1.1.7
--1 "SeeOut" component has been fixed to avoid a loop-action if its output is passed as input in OpenAI or StabilityAI component;
+-1 "SeeOut" component has been fixed to avoid a loop-action if its output is passed as input in OpenAI or StabilityAI component. Now it is not necessary rename the Slider Number with the name "SeqID";
 
 v1.1.6
 -1 Ambrosinus-Toolkit updated with the "SeeOut" component in the Image sub-category. It can slide the image file path Output by a "SeqID" slider or just see the latest file path generated from OpenAI or StabilityAI GH component;
