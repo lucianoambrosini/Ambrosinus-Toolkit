@@ -1,6 +1,6 @@
 ### LA_OpenAI-GH_Ask.ghuser "Ask to OpenAI" - base on OpenAI GPT-3 model
 
-**Current version: build-106**
+**Current version: build-107**
 
 <br>
 <br>
