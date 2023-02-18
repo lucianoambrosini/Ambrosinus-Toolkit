@@ -1,7 +1,7 @@
 ### GrayGaussMask
 Can generate a grayscale image and a blurred one
 
-Current version: **Build 101**
+Current version: **Build 102**
 
 About GrayGaussMask component **In order to run it you need to install the Python library** as shown here: ***pip install torchvision***
 This library is ~160MB so wait until appear the installation successful message.
