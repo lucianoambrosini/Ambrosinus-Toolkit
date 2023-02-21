@@ -1,6 +1,6 @@
 ### LA_StabilityAI-GH.ghuser
 
-**Current Build-107**
+**Current Build-108**
 
 After StabilityAI updates - this component is again available for your design exploring, IMPORTANT! You need to update stability-sdk python library:
 
