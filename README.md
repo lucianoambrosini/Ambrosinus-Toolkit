@@ -26,4 +26,7 @@ https://github.com/lucianoambrosini/Ambrosinus-Toolkit/wiki
 <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/11/GHA_icon-LA.png" width="10%" height="10%"><img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/11/GHUSER_icon-LA.png" width="10%" height="10%"><img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/11/GH_icon-LA.png" width="10%" height="10%">
 
 ### Toolkit bar under development (work in progress) 🦏 🦗 🐍 C#
+
+The author share the use of the all components inside the Ambrosinus-Toolkit plugin. Currently, no codes have been shared yet.
+
 *Check DEV Log Status* [at the bottom of this page](https://ambrosinus.altervista.org/blog/ambrosinus-toolkit/)
