@@ -6,6 +6,8 @@ v1.1.8
 -1 "FileNamer" component has been fixed; these updates (v1.1.7/v1.1.8) were necessary due to a couple of incoming research projects;
 -2 "La_GrayGaussMask" has been updated. Some minor fix;
 -3 "LA_OpenAI-GH_Ask_b107" has been updated. Some minor fix;
+-4 "LA_OpenAI-GHadv_b112" has been updated. Some minor fix;
+-5 "LA_StabilityAI-GH_b108" has been updated. Some minor fix;
 
 v1.1.7
 -1 "SeeOut" component has been fixed to avoid a loop-action if its output is passed as input in OpenAI or StabilityAI component. Now it is not necessary rename the Slider Number with the name "SeqID";
