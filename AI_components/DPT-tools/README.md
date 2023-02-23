@@ -4,7 +4,7 @@
 <br>
 
 <div align="center">
-<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/02/DPTto3D_comp_02.png" width="20%" height="20%">
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/02/DPTto3D_comp_02.png" width="15%" height="15%">
 </div>
 <br>
 <br>
