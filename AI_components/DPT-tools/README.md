@@ -1,4 +1,5 @@
-# ${\color{red}INCOMING-UPDATES}$
+$\color{red}{\text{INCOMING UPDATES}}$
+
 
 ### LA_DPTto3D-GH.ghuser 
 **Current component Build 101**
