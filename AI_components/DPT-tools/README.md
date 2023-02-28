@@ -11,5 +11,5 @@
 
 **ABOUT COMPONENTS**  ---> [Info]()
 
-**GitHub AToolkitDPT**       -- > [Python library]()
+**GitHub AToolkitDPT**       -- > [Requirements](https://github.com/lucianoambrosini/AToolkitDpt)
 
