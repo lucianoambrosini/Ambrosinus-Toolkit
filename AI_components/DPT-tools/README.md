@@ -12,7 +12,7 @@ $\color{red}{\text{INCOMING UPDATES}}$
 <br>
 <br>
 
-**ABOUT COMPONENTS**  ---> [Info]()
+**ABOUT COMPONENTS**  ---> [Info](https://bit.ly/LA-WYSIWYTfromDPTto3D)
 
 **GitHub AToolkitDPT**       -- > [Requirements](https://github.com/lucianoambrosini/AToolkitDpt)
 
