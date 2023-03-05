@@ -3,6 +3,7 @@
 ### LA_DPTto3D-GH.ghuser 
 **Current component Build 101**
 
+This component runs the DPT process to calculate the monocular depth estimation of the image source. It also can generate PointCloud coordinates stored in a PLY file and a 3D preview of the PoinCloud or of the mesh object.
 <br>
 
 <div align="center">
