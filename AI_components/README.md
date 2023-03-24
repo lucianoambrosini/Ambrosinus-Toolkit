@@ -6,74 +6,91 @@
 <br>
 <br>
 
-### DPTto3D_GH
-Frome monocular depth map estimation to 3D object (PointCloud and/or Mesh object)
+### AI as rendering engine (Stable Diffusion and ControlNET neural network run locally)
+**Since Ambrosinus-Toolkit v1.1.9**
+These are a set of components under development and are able to run Stable Diffusion and ControlNET locally (thanks to AUTOMATIC1111 project). The first two components developed are *LaunchSD_loc* and *AIeNG_loc*.
+<br>
 
-Download: https://github.com/lucianoambrosini/Ambrosinus-Toolkit/tree/main/AI_components/DPT-Tools
+<div align="center">
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/03/def_test_02.jpg" width="70%" height="70%">
+</div>
 
-<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/02/1674993596465.jpg" width="50%" height="50%">
+**OFFICIAL ARTICLE**  ---> [AI as Rendering Engine: running Stable Diffusion and ControlNET locally via Grasshopper](https://ambrosinus.altervista.org/blog/ai-as-rendering-eng-sd-controlnet-locally)
+<br>
+**Video demo #08:** https://youtu.be/D5UbDOOlm98
+<br>
+<br>
 
-Video demo #07: Soon!
+### DPTto3D-GH
+This component runs the DPT process to calculate the monocular depth estimation of the image source. It also can generate PointCloud coordinates stored in a PLY file and a 3D preview of the PoinCloud or of the mesh object.
+
+Download: https://github.com/lucianoambrosini/Ambrosinus-Toolkit/tree/main/AI_components/DPT-tools
+
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/02/DPTto3D_dept_PC_01.jpg" width="70%" height="70%">
+
+**Extra info:** https://bit.ly/LA-WYSIWYTfromDPTto3D
+<br>
+**Video demo #08:** https://youtu.be/IzLwI8sw-LU
 <br>
 <br>
 
 ### StabilityAI_StableDiffusion_GH
 Stable Diffusion inside Grasshopper with Python and Stability AI library from DreamStudio
 
-Download: https://github.com/lucianoambrosini/Ambrosinus-Toolkit/tree/main/AI_components/StabilityAI-DS_GH
+**Download:** https://github.com/lucianoambrosini/Ambrosinus-Toolkit/tree/main/AI_components/StabilityAI-DS_GH
 
 <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/11/LA_StabilityAI-GH_comps_02-a.jpg" width="70%" height="70%">
 <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/11/DS_StabilityAI-GH_demo_011.jpg" width="70%" height="70%">
 <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/11/DS_StabilityAI-GH_demo_01.jpg" width="70%" height="70%">
 
-Extra info: https://bit.ly/OpenAI-insideGrasshopper
+**Extra info:** https://bit.ly/OpenAI-insideGrasshopper
 <br>
-Video demo #04: https://youtu.be/QbATRKGPYjc
+**Video demo #04:** https://youtu.be/QbATRKGPYjc
 <br>
-Video demo #01: https://youtu.be/aymGdj9M9AQ
+**Video demo #01:** https://youtu.be/aymGdj9M9AQ
 <br>
 <br>
 
 ### OpenAI_Dall-E_GH "Light version"
 DALL-E inside Grasshopper with Python and Open AI library
 
-Download: https://github.com/lucianoambrosini/Ambrosinus-Toolkit/tree/main/AI_components/OpenAI_DALL-E_GH
+**Download:** https://github.com/lucianoambrosini/Ambrosinus-Toolkit/tree/main/AI_components/OpenAI_DALL-E_GH
 
 <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/11/demo_05.jpg" width="70%" height="70%">
 <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/11/demo_01.jpg" width="70%" height="70%">
 
-Extra info installation/Light version: https://bit.ly/OpenAI-insideGrasshopper
+**Extra info installation/Light version:** https://bit.ly/OpenAI-insideGrasshopper
 <br>
-Video demo Light version: https://youtu.be/qrnbB2wb0PA
+**Video demo Light version:** https://youtu.be/qrnbB2wb0PA
 <br>
 <br>
 
 ### OpenAI_Dall-E_GH "Advanced version"
 DALL-E inside Grasshopper with Python and Open AI library
 
-Download: https://github.com/lucianoambrosini/Ambrosinus-Toolkit/tree/main/AI_components/OpenAI_DALL-E_GH
+**Download:** https://github.com/lucianoambrosini/Ambrosinus-Toolkit/tree/main/AI_components/OpenAI_DALL-E_GH
 
 <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/11/ImageMask_OpenAI-GH_v2_demo-02.jpg" width="70%" height="70%">
 <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/11/OpenAI-GH_v2_VAR_demo-04.jpg" width="70%" height="70%">
 
-Extra info Advanced version: https://bit.ly/OpenAI-insideGrasshopperADV
+**Extra info Advanced version:** https://bit.ly/OpenAI-insideGrasshopperADV
 <br>
-Video demo Advanced version (EDIT mode): https://youtu.be/nmJTP1QvuIE
+**Video demo Advanced version (EDIT mode):** https://youtu.be/nmJTP1QvuIE
 <br>
-Video demo Advanced version (VARIATION mode): https://youtu.be/UPTc5o6rOLM
+**Video demo Advanced version (VARIATION mode):** https://youtu.be/UPTc5o6rOLM
 <br>
 <br>
 
 ### Ask_To_OpenAI for tips (not only) - GPT-3 models
 This ghuser component can execute the requesting process for OpenAI "text completion mode". This AI capability allows designer/users asking for answers or sunmitting instructions to AI, even code something...
 
-Download: https://github.com/lucianoambrosini/Ambrosinus-Toolkit/tree/main/AI_components/OpenAI_DALL-E_GH
+**Download: https:**//github.com/lucianoambrosini/Ambrosinus-Toolkit/tree/main/AI_components/OpenAI_DALL-E_GH
 
 <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/12/LA_OpenAI-GHask_demo-04.jpg" width="70%" height="70%">
 <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/12/LA_OpenAI-GHask_demo-03.jpg" width="70%" height="70%">
 
-Extra info Ask to OpenAI: https://bit.ly/OpenAI-QandA-insideGrasshopper
+**Extra info Ask to OpenAI:** https://bit.ly/OpenAI-QandA-insideGrasshopper
 <br>
-Video demo Ask to OpenAI (Completion mode): https://youtu.be/A5ReBxqf_SI
+**Video demo Ask to OpenAI (Completion mode):** https://youtu.be/A5ReBxqf_SI
 <br>
-Video demo Ask to OpenAI for code (GPT-3 model): https://youtu.be/NU3ILLuBl3g
+**Video demo Ask to OpenAI for code (GPT-3 model):** https://youtu.be/NU3ILLuBl3g
