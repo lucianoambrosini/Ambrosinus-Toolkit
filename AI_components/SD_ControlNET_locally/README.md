@@ -1,6 +1,9 @@
 ### AI as rendering engine (Stable Diffusion and ControlNET neural network run locally)
 **Since Ambrosinus-Toolkit v1.1.9**
 These are a set of components under development and are able to run SD and CN locally. The first two components developed are *LaunchSD_loc* and *AIeNG_loc*.
+
+⚠️**Important Run Rhino as Administrator!** *Each session needs to run firstly the LAunchSD_loc component to establish a live connection between the Stable Diffusion engine and the Grasshopper components.*
+<br>
 <br>
 
 <div align="center">
