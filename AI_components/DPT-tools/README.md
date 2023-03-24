@@ -1,5 +1,3 @@
-### INCOMING UPDATES
-
 ### LA_DPTto3D-GH.ghuser 
 **Current component Build 101**
 
