@@ -11,6 +11,8 @@ These are a set of components under development and are able to run SD and CN lo
 
 **OFFICIAL ARTICLE**  ---> [AI as Rendering Engine: running Stable Diffusion and ControlNET locally via Grasshopper](https://ambrosinus.altervista.org/blog/ai-as-rendering-eng-sd-controlnet-locally)
 
+**Video:** https://youtu.be/D5UbDOOlm98
+
 <br>
 <br>
 
