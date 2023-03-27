@@ -38,5 +38,5 @@ In order to run AIeNG_loc and LaunchSD_loc components the designer needs to inst
 
 Again see my [official article](https://bit.ly/SDandCNinsideGH) where I have included all the datasets and the instructions.
 
-**Enjoy tour design exploration!** 😉
+**Enjoy your design exploration!** 😉
 
