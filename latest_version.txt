@@ -1,9 +1,14 @@
 MAIN INFO
-Ambrosinus-Toolkit latest version is: 1.1.9
+Ambrosinus-Toolkit latest version is: 1.2.0
 -
 CHANGELOG
+v1.2.0
+-1 "SDopts_loc" has been added in the AI sub-category. This component allows the user to set a custom Stable Diffusion model checkpoint, for instance, using the “mdjrny-v4.safetensors” model, a dataset trained with Midjourney version 4 images;
+-2 "SD-Imginfo" allows the user to read all AI-Gen settings used for image generation;
+-3 All C# components have been updated with a new right-click context menu to get more info;
+
 v1.1.9
--1 AIeNG_loc" has been added in the AI sub-category. This component lays the foundations for future adaptations, expansions and tools to make the most of the best features provided by the AUTOMATIC1111 project - It is part of the "_loc" components able to run Stable Diffusion and ControlNET neural network locally;
+-1 "AIeNG_loc" has been added in the AI sub-category. This component lays the foundations for future adaptations, expansions and tools to make the most of the best features provided by the AUTOMATIC1111 project - It is part of the "_loc" components able to run Stable Diffusion and ControlNET neural network locally;
 -2 "LaunchSD_loc" has been added in the AI sub-category. This component can open and close the localhost port and also check the status - It is part of the "_loc" components able to run Stable Diffusion and ControlNET neural network locally (thanks to Automatic1111 project);
 -3 "LA_DPTto3D_b101" has been added in the AI sub-category (downloadable from GitHib page). This component can generate a PointCloud (stored in th PLY file format) directly from a 2D RGB image. It exploits the DPT technology (transformers libraries). Right click on the component for more info;
 
