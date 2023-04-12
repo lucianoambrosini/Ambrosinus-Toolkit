@@ -7,7 +7,7 @@ These are a set of components under development and are able to run SD and CN lo
 <br>
 
 <div align="center">
-<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/03/def_test_02.jpg" width="70%" height="70%">
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/03/def_test_01.jpg" width="70%" height="70%">
 </div>
 <br>
 <br>
