@@ -6,6 +6,7 @@ v1.2.0
 -1 "SDopts_loc" has been added in the AI sub-category. This component allows the user to set a custom Stable Diffusion model checkpoint, for instance, using the “mdjrny-v4.safetensors” model, a dataset trained with Midjourney version 4 images;
 -2 "SD-Imginfo" allows the user to read all AI-Gen settings used for image generation;
 -3 All C# components have been updated with a new right-click context menu to get more info;
+-4 AI subcategory components disposition has been reordered;
 
 v1.1.9
 -1 "AIeNG_loc" has been added in the AI sub-category. This component lays the foundations for future adaptations, expansions and tools to make the most of the best features provided by the AUTOMATIC1111 project - It is part of the "_loc" components able to run Stable Diffusion and ControlNET neural network locally;
