@@ -1,4 +1,6 @@
 # AUTOMATIC1111 has been update so ControlNET may not works properly (I am working to update this component)
+📣 ControlNET has updated to version 1.1 but AUTOMATIC1111 API support is not yet implemented. If you want to use this Grasshopper component, please be sure to install [the ControlNET v1.0 version as explained here](https://github.com/lllyasviel/webui-controlnet-v1-archived).
+
 ### AI as rendering engine (Stable Diffusion and ControlNET neural network run locally)
 **Since Ambrosinus-Toolkit v1.1.9**
 These are a set of components under development and are able to run SD and CN locally. The first two components developed are *LaunchSD_loc* and *AIeNG_loc*.
