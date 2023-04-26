@@ -1,3 +1,4 @@
+# AUTOMATIC1111 has been update so ControlNET may not works properly (I am working to update this component)
 ### AI as rendering engine (Stable Diffusion and ControlNET neural network run locally)
 **Since Ambrosinus-Toolkit v1.1.9**
 These are a set of components under development and are able to run SD and CN locally. The first two components developed are *LaunchSD_loc* and *AIeNG_loc*.
