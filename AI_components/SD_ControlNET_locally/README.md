@@ -15,9 +15,19 @@ These are a set of components under development and are able to run SD and CN lo
 <br>
 <br>
 
+### Have a look to the initial News frame at the top of the official article, there I highlight all the lates news and updates about the AI components
+
+<div align="center">
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/05/News_frame_01.png" width="90%" height="90%">
+</div>
+<br>
+
+
 **OFFICIAL ARTICLE**  ---> [AI as Rendering Engine: running Stable Diffusion and ControlNET locally via Grasshopper](https://ambrosinus.altervista.org/blog/ai-as-rendering-eng-sd-controlnet-locally)
 
-**Video:** https://youtu.be/D5UbDOOlm98
+**Video 01:** https://youtu.be/D5UbDOOlm98
+
+**Video 02:** https://youtu.be/ANsxTVHrFk8
 
 <br>
 <br>
