@@ -8,6 +8,7 @@ v1.2.1
 -3 "UpsclAI_loc" component has been added to the 3.AI sub-category. This upscaler can improve the output size of any image format leveraging AI models working with the A1111 project;
 -4 "OpenDir" component has been added to the 4.Manage sub-category. It is still in wip mode but basically, it can open quickly any full folder path passed as input;
 -5 "AIeng_loc" component has been updated. Currently it works fine with ControlNET v1.0 extension (see the video tutorial how to install it) but it ready for ControlNET v1.1, more info in the next update;
+-6 "Extra components" have been re-ordered in the 9.Extra sub-category. Please, delete old ones (to avoid an overlapped effect) and download new versions from GitHub page;
 
 v1.2.0
 -1 "SDopts_loc" has been added in the AI sub-category. This component allows the user to set a custom Stable Diffusion model checkpoint, for instance, using the “mdjrny-v4.safetensors” model, a dataset trained with Midjourney version 4 images;
