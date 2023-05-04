@@ -1,7 +1,14 @@
 MAIN INFO
-Ambrosinus-Toolkit latest version is: 1.2.0
+Ambrosinus-Toolkit latest version is: 1.2.1
 -
 CHANGELOG
+v1.2.1
+-1 "LaunchSD_loc" has been improved, now it is possible interact with webui-user.bat file and some og its most used arguments. It can create webui-user.bat file according to cmd arguments; 
+-2 "ViewCapture" component has been added to the 2.Image sub-category. This component allows the user to save the Rhino viewport as image file (JPG/PNG) with a scale factor and as Rhino Named Views object. Now you can pass easily your 3D model screenshot as BaseIMH input in the AIeng_loc component to render your concept design;
+-3 "UpsclAI_loc" component has been added to the 3.AI sub-category. This upscaler can improve the output size of any image format leveraging AI models working with the A1111 project;
+-4 "OpenDir" component has been added to the 4.Manage sub-category. It is still in wip mode but basically, it can open quickly any full folder path passed as input;
+-5 "AIeng_loc" component has been updated. Currently it works fine with ControlNET v1.0 extension (see the video tutorial how to install it) but it ready for ControlNET v1.1, more info in the next update;
+
 v1.2.0
 -1 "SDopts_loc" has been added in the AI sub-category. This component allows the user to set a custom Stable Diffusion model checkpoint, for instance, using the “mdjrny-v4.safetensors” model, a dataset trained with Midjourney version 4 images;
 -2 "SD-Imginfo" allows the user to read all AI-Gen settings used for image generation;
