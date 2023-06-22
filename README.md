@@ -1,8 +1,8 @@
 # Ambrosinus toolkit info
 
-[![GitHub release](https://img.shields.io/badge/release-v1.2.1-blue)](https://github.com/lucianoambrosini/Ambrosinus-Toolkit/blob/main/latest_version.txt)
+[![GitHub release](https://img.shields.io/badge/release-v1.2.2-blue)](https://github.com/lucianoambrosini/Ambrosinus-Toolkit/blob/main/latest_version.txt)
 [![GitHub Food4Rhino](https://img.shields.io/badge/Food4Rhino-plugin-lightgrey)](https://bit.ly/AmbrosinusToolkit_Food4Rhino)
-[![GitHub release date](https://img.shields.io/badge/last%20release%20date-April_2023-green)](https://bit.ly/Ambrosinus-Toolkit)
+[![GitHub release date](https://img.shields.io/badge/last%20release%20date-June_2023-green)](https://bit.ly/Ambrosinus-Toolkit)
 [![GitHub support forum](https://img.shields.io/badge/Support%20forum-Help-critical)](https://discourse.mcneel.com/t/ambrosinus-toolkit/147124)
 [![GitHub license](https://img.shields.io/github/license/lucianoambrosini/Ambrosinus-Toolkit?color=orange)](https://github.com/lucianoambrosini/Ambrosinus-Toolkit/blob/main/LICENSE)
 
@@ -17,7 +17,7 @@
 https://github.com/lucianoambrosini/Ambrosinus-Toolkit/wiki
   
 <div align="center">
-<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/04/LA_screen_toolbar_13.png" width="90%" height="90%">
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/04/LA_screen_toolbar_14.png" width="90%" height="90%">
 </div>
 
 <br>
