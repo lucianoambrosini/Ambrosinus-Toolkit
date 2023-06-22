@@ -1,35 +1,41 @@
 MAIN INFO
-Ambrosinus-Toolkit latest version is: 1.2.1
+Ambrosinus-Toolkit latest version is: 1.2.2
 -
 CHANGELOG
+v1.2.2
+-1 "LaunchSD_loc" has been updated: now the input parameters give the progression sense of the sequence of the steps. Now you can check the IP address through the integrated ipconfig command helpful when the user ticks the listen argument;
+-2 "CustIPport_loc" component has been added: this component helps the user in setting the Remote PC configuration passing the IP address shared on his network and the port number opened on the Windows OS Firewall;
+-3 "AIeNG_loc" component: its new look added the implementation of the ControlNET version 1.1.X (bear in mind it is implemented, but not yet fully API supported so I suggest using v1.0) so you can test it but it is already known that the dataset-models do not work properly in the API mode;
+-4 Thanks to WinSDlauncher (the Windows OS app) is it possible to set the Server PC without switching/fetching the Rhino license between the Server PC and the Remote one (please see the video demo);
+
 v1.2.1
--1 "LaunchSD_loc" has been improved, now it is possible interact with webui-user.bat file and some og its most used arguments. It can create webui-user.bat file according to cmd arguments; 
--2 "ViewCapture" component has been added to the 2.Image sub-category. This component allows the user to save the Rhino viewport as image file (JPG/PNG) with a scale factor and as Rhino Named Views object. Now you can pass easily your 3D model screenshot as BaseIMH input in the AIeng_loc component to render your concept design;
+-1 "LaunchSD_loc" has been improved, now it is possible to interact with webui-user.bat file and some of its most used arguments. It can create webui-user.bat file according to cmd arguments; 
+-2 "ViewCapture" component has been added to the 2.Image sub-category. This component allows the user to save the Rhino viewport as an image file (JPG/PNG) with a scale factor and as a Rhino Named Views object. Now you can pass easily your 3D model screenshot as BaseIMH input in the AIeng_loc component to render your concept design;
 -3 "UpsclAI_loc" component has been added to the 3.AI sub-category. This upscaler can improve the output size of any image format leveraging AI models working with the A1111 project;
--4 "OpenDir" component has been added to the 4.Manage sub-category. It is still in wip mode but basically, it can open quickly any full folder path passed as input;
--5 "AIeng_loc" component has been updated. Currently it works fine with ControlNET v1.0 extension (see the video tutorial how to install it) but it ready for ControlNET v1.1, more info in the next update;
--6 "Extra components" have been re-ordered in the 9.Extra sub-category. Please, delete old ones (to avoid an overlapped effect) and download new versions from GitHub page;
+-4 "OpenDir" component has been added to the 4. Manage sub-category. It is still in WIP mode but basically, it can open quickly any full folder path passed as input;
+-5 "AIeng_loc" component has been updated. Currently, it works fine with ControlNET v1.0 extension (see the video tutorial on how to install it) but it is ready for ControlNET v1.1, more info in the next update;
+-6 "Extra components" have been re-ordered in the 9.Extra sub-category. Please, delete old ones (to avoid an overlapped effect) and download new versions from the GitHub page;
 
 v1.2.0
--1 "SDopts_loc" has been added in the AI sub-category. This component allows the user to set a custom Stable Diffusion model checkpoint, for instance, using the “mdjrny-v4.safetensors” model, a dataset trained with Midjourney version 4 images;
+-1 "SDopts_loc" has been added to the AI sub-category. This component allows the user to set a custom Stable Diffusion model checkpoint, for instance, using the “mdjrny-v4.safetensors” model, a dataset trained with Midjourney version 4 images;
 -2 "SD-Imginfo" allows the user to read all AI-Gen settings used for image generation;
 -3 All C# components have been updated with a new right-click context menu to get more info;
 -4 AI subcategory components disposition has been reordered;
 
 v1.1.9
--1 "AIeNG_loc" has been added in the AI sub-category. This component lays the foundations for future adaptations, expansions and tools to make the most of the best features provided by the AUTOMATIC1111 project - It is part of the "_loc" components able to run Stable Diffusion and ControlNET neural network locally;
--2 "LaunchSD_loc" has been added in the AI sub-category. This component can open and close the localhost port and also check the status - It is part of the "_loc" components able to run Stable Diffusion and ControlNET neural network locally (thanks to Automatic1111 project);
--3 "LA_DPTto3D_b101" has been added in the AI sub-category (downloadable from GitHib page). This component can generate a PointCloud (stored in th PLY file format) directly from a 2D RGB image. It exploits the DPT technology (transformers libraries). Right click on the component for more info;
+-1 "AIeNG_loc" has been added to the AI sub-category. This component lays the foundations for future adaptations, expansions and tools to make the most of the best features provided by the AUTOMATIC1111 project - It is part of the "_loc" components able to run Stable Diffusion and ControlNET neural network locally;
+-2 "LaunchSD_loc" has been added to the AI sub-category. This component can open and close the localhost port and also check the status - It is part of the "_loc" components able to run Stable Diffusion and ControlNET neural network locally (thanks to the Automatic1111 project);
+-3 "LA_DPTto3D_b101" has been added to the AI sub-category (downloadable from the GitHub page). This component can generate a PointCloud (stored in the PLY file format) directly from a 2D RGB image. It exploits the DPT technology (transformers libraries). Right-click on the component for more info;
 
 v1.1.8
 -1 "FileNamer" component has been fixed; these updates (v1.1.7/v1.1.8) were necessary due to a couple of incoming research projects;
--2 "La_GrayGaussMask" has been updated. Some minor fix;
--3 "LA_OpenAI-GH_Ask_b107" has been updated. Some minor fix;
--4 "LA_OpenAI-GHadv_b112" has been updated. Some minor fix;
--5 "LA_StabilityAI-GH_b108" has been updated. Some minor fix;
+-2 "La_GrayGaussMask" has been updated. Some minor fixes;
+-3 "LA_OpenAI-GH_Ask_b107" has been updated. Some minor fixes;
+-4 "LA_OpenAI-GHadv_b112" has been updated. Some minor fixes;
+-5 "LA_StabilityAI-GH_b108" has been updated. Some minor fixes;
 
 v1.1.7
--1 "SeeOut" component has been fixed to avoid a loop-action if its output is passed as input in OpenAI or StabilityAI component. Now it is not necessary rename the Slider Number with the name "SeqID";
+-1 "SeeOut" component has been fixed to avoid a loop-action if its output is passed as input in OpenAI or StabilityAI component. Now it is not necessary to rename the Slider Number with the name "SeqID";
 
 v1.1.6
 -1 Ambrosinus-Toolkit updated with the "SeeOut" component in the Image sub-category. It can slide the image file path Output by a "SeqID" slider or just see the latest file path generated from OpenAI or StabilityAI GH component;
