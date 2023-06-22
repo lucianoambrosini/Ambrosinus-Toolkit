@@ -37,6 +37,8 @@ Now it is possible running Stable Difussion on your LAN. Please, [for more info 
 
 **Video 02:** https://youtu.be/ANsxTVHrFk8
 
+**Video 03 LAN:** https://youtu.be/90DrY2AYaZQ
+
 <br>
 <br>
 
