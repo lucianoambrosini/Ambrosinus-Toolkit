@@ -5,6 +5,10 @@
 **Since Ambrosinus-Toolkit v1.1.9**
 These are a set of components under development and are able to run SD and CN locally. The first two components developed are *LaunchSD_loc* and *AIeNG_loc*.
 
+**Since Ambrosinus-Toolkit v1.2.2**
+Now it is possible running Stable Difussion on your LAN. Please, [for more info have a look here](https://bit.ly/SDandCNinsideGH-Upd3) 😉
+
+
 ⚠️**Important Run Rhino as Administrator!** *Each session needs to run firstly the LAunchSD_loc component to establish a live connection between the Stable Diffusion engine and the Grasshopper components.*
 <br>
 <br>
@@ -13,12 +17,16 @@ These are a set of components under development and are able to run SD and CN lo
 <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/03/def_test_01.jpg" width="70%" height="70%">
 </div>
 <br>
+<div align="center">
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/06/remote_running-2.jpg" width="70%" height="70%">
+</div>
+<br>
 <br>
 
 ### Have a look to the initial News frame at the top of the official article, there I highlight all the latest news and updates about the AI components
 
 <div align="center">
-<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/05/News_frame_01.png" width="90%" height="90%">
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/04/News_frame_02.png" width="90%" height="90%">
 </div>
 <br>
 
