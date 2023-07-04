@@ -1,7 +1,10 @@
 MAIN INFO
-Ambrosinus-Toolkit latest version is: 1.2.2
+Ambrosinus-Toolkit latest version is: 1.2.3
 -
 CHANGELOG
+v1.2.3
+-1 I have fixed a bug that comes up after some A1111 API updates. The issue generally appeared with this error message: "Index was outside the bounds of the array". it was related to the info text embedded in the generated image.
+
 v1.2.2
 -1 "LaunchSD_loc" has been updated: now the input parameters give the progression sense of the sequence of the steps. Now you can check the IP address through the integrated ipconfig command helpful when the user ticks the listen argument;
 -2 "CustIPport_loc" component has been added: this component helps the user in setting the Remote PC configuration passing the IP address shared on his network and the port number opened on the Windows OS Firewall;
