@@ -2,11 +2,15 @@
 📣 ControlNET has been updated to version 1.1 but AUTOMATIC1111 API support is not yet implemented. If you want to use this Grasshopper component, please be sure to install [the ControlNET v1.0 version as explained here](https://github.com/lllyasviel/webui-controlnet-v1-archived).
 
 ### AI as rendering engine (Stable Diffusion and ControlNET neural network run locally)
-**Since Ambrosinus-Toolkit v1.1.9**
-These are a set of components under development and are able to run SD and CN locally. The first two components developed are *LaunchSD_loc* and *AIeNG_loc*.
+
+**Ambrosinus-Toolkit v1.2.3**
+I have fixed a bug that comes up after some A1111 API updates. The issue generally appeared with this error message: "Index was outside the bounds of the array". it was related to the info text embedded in the generated image. Let me know if some other issues pop up! 😉
 
 **Since Ambrosinus-Toolkit v1.2.2**
 Now it is possible running Stable Difussion on your LAN. Please, [for more info have a look here](https://bit.ly/SDandCNinsideGH-Upd3) 😉
+
+**Since Ambrosinus-Toolkit v1.1.9**
+These are a set of components under development and are able to run SD and CN locally. The first two components developed are *LaunchSD_loc* and *AIeNG_loc*.
 
 
 ⚠️**Important Run Rhino as Administrator!** *Each session needs to run firstly the LAunchSD_loc component to establish a live connection between the Stable Diffusion engine and the Grasshopper components.*
