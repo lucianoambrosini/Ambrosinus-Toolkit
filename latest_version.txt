@@ -1,7 +1,15 @@
 MAIN INFO
-Ambrosinus-Toolkit latest version is: 1.2.3
+Ambrosinus-Toolkit latest version is: 1.2.4
 -
 CHANGELOG
+v1.2.4
+-1 I have fixed different bugs that come up after some A1111 API updates. The issue generally appeared with this error message: "Index was outside the bounds of the array". it was related to the info text embedded in the generated image.
+-2 Added an internal timeout in the "SDopts_loc" component (that one to select different checkpoint models);
+-3 Fixed an issue related to the possibility of generating more than one image (N params);
+-4 Fixed different issues about the INFOtext generation if the user switches among T2I Base, CN v1.0 and CN v1.1.X processes;
+-5 Fixed the possibility to assign CFG decimal values (e.g.:5.5, 5.8, etc.);
+-6 Reduced the number of times that the CN v1.1.X alert message turns on;
+
 v1.2.3
 -1 I have fixed a bug that comes up after some A1111 API updates. The issue generally appeared with this error message: "Index was outside the bounds of the array". it was related to the info text embedded in the generated image.
 
