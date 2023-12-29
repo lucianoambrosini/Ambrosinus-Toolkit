@@ -26,3 +26,11 @@ FROM **Food4Rhino**   -- > [DOWNLOAD](https://www.food4rhino.com/en/app/ambrosin
 FROM **GitHub**       -- > [DOWNLOAD](https://github.com/lucianoambrosini/Ambrosinus-Toolkit/tree/main/Latest_version)
 
 ### Both components work and are available
+
+<br>
+<br>
+
+>[!WARNING]
+>**This Cluster and User object work with Rhino v8 too.**<br>
+*Anyway, pay attention if you try to open or edit it the cluster will go into "protection mode" and Rhino could crash.*<br>
+**If you are interested in my works or code, please let me know**😉
