@@ -19,3 +19,10 @@ Since **LA_OpenAI-GH_Ask.ghuser** version: **build-105** output files are packed
 **ABOUT COMPONENTS**  ---> [Info](https://bit.ly/OpenAI-QandA-insideGrasshopper)
 <br>
 **Video demo Ask to OpenAI for code (GPT-3 model)** --> [Video](https://youtu.be/NU3ILLuBl3g)
+<br>
+<br>
+
+>[!WARNING]
+>**This Cluster and User object work with Rhino v8 too.**<br>
+*Anyway, pay attention if you try to open or edit it the cluster will go into "protection mode" and Rhino could crash.*<br>
+**If you are interested in my works or code, please let me know**😉
