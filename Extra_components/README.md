@@ -4,6 +4,11 @@
 
 <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/11/GHUSER_icon-LA.png" width="10%" height="10%"><img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/11/GH_icon-LA.png" width="10%" height="10%">
 
+>[!WARNING]
+>**This Clusters and User objects work with Rhino v8 too.**<br>
+*Anyway, pay attention if you try to open or edit it the cluster will go into "protection mode" and Rhino could crash.*<br>
+**If you are interested in my works or codes, please let me know**😉
+
 
 <br>
 <br>
