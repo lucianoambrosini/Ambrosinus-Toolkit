@@ -33,3 +33,10 @@ Downloadable from Food4Rhino or Rhino Package Manager
 **ABOUT INSTALLATION**  ---> [Info](https://bit.ly/StabilityAI-insideGrasshopper)
 
 **SINCE BUILD 106 COMPONENTS**  ---> [Info Build 106](https://bit.ly/StabilityAI-insideGrasshopperADV)
+<br>
+<br>
+
+>[!WARNING]
+>**This Cluster and User object work with Rhino v8 too.**<br>
+*Anyway, pay attention if you try to open or edit it the cluster will go into "protection mode" and Rhino could crash.*<br>
+**If you are interested in my works or code, please let me know**😉
