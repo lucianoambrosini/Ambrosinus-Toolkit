@@ -9,8 +9,6 @@
 
 ### v1.2.0 --> [go to GHA file](https://github.com/lucianoambrosini/Ambrosinus-Toolkit/tree/main/Old_versions/120)
 
-### v1.1.9 --> [go to GHA file](https://github.com/lucianoambrosini/Ambrosinus-Toolkit/tree/main/Old_versions/119)
-
 ### v1.1.8 --> [go to GHA file](https://github.com/lucianoambrosini/Ambrosinus-Toolkit/tree/main/Old_versions/118)
 
 ### v1.1.7 --> [go to GHA file](https://github.com/lucianoambrosini/Ambrosinus-Toolkit/tree/main/Old_versions/117)
