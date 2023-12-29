@@ -25,4 +25,8 @@ Please see the related Wiki section
 
 <br>
 <br>
-<br>
+
+>[!WARNING]
+>**This Cluster and User object work with Rhino v8 too.**<br>
+*Anyway, pay attention if you try to open or edit it the cluster will go into "protection mode" and Rhino could crash.*<br>
+**If you are interested in my works or code, please let me know**😉
