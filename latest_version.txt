@@ -10,6 +10,10 @@ v1.2.6
 
 v1.2.5
 -1 I have fixed different bugs;
+-2 Updated "GradientGen" and "GradientDecod" to generate multiple Gradient components and decode a multiple list of RGB values;
+-3 Added "SaveGradientLib" component into the Manage subcategory. Through it, you can save different Grasshopper gradients in a custom library format (grasshopper_gradients.xml file);
+-4 Added "SwitchGradientLib" component into the Manage subcategory. Now it is easy to switch among different gradient libraries without rebooting Grasshopper;
+-5 Added "WireX" component into the Manage subcategory. Say goodbye to tedious connect/disconnect action with multiple components. Now you can control individual input/output parameters when connecting and disconnecting components;
 
 v1.2.4
 -1 I have fixed different bugs that come up after some A1111 API updates. The issue generally appeared with this error message: "Index was outside the bounds of the array". it was related to the info text embedded in the generated image.
