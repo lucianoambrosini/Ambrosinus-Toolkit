@@ -44,4 +44,4 @@ But in the end remember, this is an experiment in numerology, based on Pythagore
 <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/12/Alkemyst-Kaballah_Hermes_cover.jpg" width="70%" height="70%">
 Extra info: https://bit.ly/GHcomp-AlkemycKaballahV1
 <br>
-Video demo: 
+Video demo: https://youtu.be/nChyRWKOOLs
