@@ -34,3 +34,14 @@ A parametric "trick" to generate infinite kinds of Halloween Pumpkins - "treat"?
 Extra info: http://bit.ly/ParamHalloween
 <br>
 Video demo: https://youtu.be/TQvinW7gTrk
+<br>
+<br>
+
+### Alkemyc Kaballah v1 - What's in the Name?
+With this new grasshopper component, you will be able to satisfy your karmic and astrological curiosities following the tradition of Jewish Kaballah.
+But in the end remember, this is an experiment in numerology, based on Pythagorean tables, pyramid calculations...numerical transformations... hermeticism in code..."computer alchemy" for the first time in Grasshopper 😅
+
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/12/Alkemyst-Kaballah_Hermes_cover.jpg" width="70%" height="70%">
+Extra info: https://bit.ly/GHcomp-AlkemycKaballahV1
+<br>
+Video demo: 
