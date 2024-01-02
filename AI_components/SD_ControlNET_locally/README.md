@@ -3,6 +3,15 @@
 
 ### AI as rendering engine (Stable Diffusion and ControlNET neural network run locally)
 
+**Ambrosinus-Toolkit v1.2.6**
+I have the Variation mode (aka Image-To-Image mode).the file named "SD_Local_ControlNET_v10-11_v126_AIvariation_base&server_demo-01" is exactly the same as this one: "SD_Local_ControlNET_v10-11_v125_base&server_demo-01"
+the main difference is that in version 1.2.6 the definition has the new component "AIimgToimg_loc" (Image-to-Image I2I) while in the one marked with v1.2.5 it has the component "AIeng_loc" (Text-to-Image T2I). 
+
+<div align="center">
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2024/01/AIvariation_demo_01.jpg" width="70%" height="70%">
+</div>
+<br>
+
 **Ambrosinus-Toolkit v1.2.3**
 I have fixed a bug that comes up after some A1111 API updates. The issue generally appeared with this error message: "Index was outside the bounds of the array". it was related to the info text embedded in the generated image. Let me know if some other issues pop up! 😉
 
