@@ -1,7 +1,16 @@
 MAIN INFO
-Ambrosinus-Toolkit latest version is: 1.2.4
+Ambrosinus-Toolkit latest version is: 1.2.6
 -
 CHANGELOG
+v1.2.6
+-1 Added AI variation mode locally into the AI subcategory. Now You can run Stable Diffusion with this feature you can alter the images through the "Denoise" parameter and the use of the editing mask;
+-2 Added Text-to-3D, Image-to-3D and text-to-texture from mesh.ai service into the AI subcategory. The "MeshyReq" generates the request while "MeshyRet" gets all files elaborate through the API key (WIP in the next few days, I will upload the "ghuser" objects to the GitHub page;
+-3 Added the "B64toBMP" component into the Image subcategory. Through it is possible to convert an image to Base64 string (text) and this latter into a Bitmap. It is useful to embed an image into a gh file without attaching the bitmap file;
+-4 Added the "Alkemyc Kaballah" component into the Extra subcategory. It is a funny experiment in numerology according to the Kaballah tradition - "What's in the name?";
+
+v1.2.5
+-1 I have fixed different bugs;
+
 v1.2.4
 -1 I have fixed different bugs that come up after some A1111 API updates. The issue generally appeared with this error message: "Index was outside the bounds of the array". it was related to the info text embedded in the generated image.
 -2 Added an internal timeout in the "SDopts_loc" component (that one to select different checkpoint models);
