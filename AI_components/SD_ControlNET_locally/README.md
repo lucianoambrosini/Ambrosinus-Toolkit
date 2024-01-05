@@ -3,9 +3,8 @@
 
 ### AI as rendering engine (Stable Diffusion and ControlNET neural network run locally)
 
-**Ambrosinus-Toolkit v1.2.6**
-I have the Variation mode (aka Image-To-Image mode).the file named "SD_Local_ControlNET_v10-11_v126_AIvariation_base&server_demo-01" is exactly the same as this one: "SD_Local_ControlNET_v10-11_v125_base&server_demo-01"
-the main difference is that in version 1.2.6 the definition has the new component "AIimgToimg_loc" (Image-to-Image I2I) while in the one marked with v1.2.5 it has the component "AIeng_loc" (Text-to-Image T2I). 
+**Ambrosinus-Toolkit v1.2.6**<br>
+The Variation mode (aka Image-To-Image mode) is added to the file named *"SD_Local_ControlNET_v10-11_v126_AIvariation_base&server_demo-01"* that is exactly the same as this: *"SD_Local_ControlNET_v10-11_v125_base&server_demo-01"* the main difference is that the definition v1.2.6 has the new component "AIimgToimg_loc" (Image-to-Image I2I) while in the v1.2.5 there is the "AIeng_loc" (Text-to-Image T2I). 
 
 <div align="center">
 <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2024/01/AIvariation_demo_01.jpg" width="70%" height="70%">
