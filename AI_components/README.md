@@ -17,7 +17,20 @@ These are a set of components under development and are able to run Stable Diffu
 
 **OFFICIAL ARTICLE**  ---> [AI as Rendering Engine: running Stable Diffusion and ControlNET locally via Grasshopper](https://ambrosinus.altervista.org/blog/ai-as-rendering-eng-sd-controlnet-locally)
 <br>
-**Video demo #08:** https://youtu.be/D5UbDOOlm98
+**Video demo:** https://youtu.be/D5UbDOOlm98
+<br>
+<br>
+
+### MeshyAI (text to 3D, image to 3D and text to texture)
+As many already know, new platforms and services dedicated to AI are growing visibly. Meshy is one of them and promises to empower content creators to effortlessly turn text and images into captivating 3D assets in under a minute. Waiting for further developments... I'm starting to integrate these features within Ambrosinus Toolkit v1.2.6😉
+
+Download: https://github.com/lucianoambrosini/Ambrosinus-Toolkit/tree/main/AI_components/MeshyAI_GH
+
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2024/01/ImageTo3D_demo_05.jpg" width="70%" height="70%">
+
+**Extra info:** https://bit.ly/MeshyAIthroughGH
+<br>
+**Video demo:** https://youtu.be/h3d9UPJCVcQ
 <br>
 <br>
 
@@ -30,7 +43,7 @@ Download: https://github.com/lucianoambrosini/Ambrosinus-Toolkit/tree/main/AI_co
 
 **Extra info:** https://bit.ly/LA-WYSIWYTfromDPTto3D
 <br>
-**Video demo #08:** https://youtu.be/IzLwI8sw-LU
+**Video demo:** https://youtu.be/IzLwI8sw-LU
 <br>
 <br>
 
