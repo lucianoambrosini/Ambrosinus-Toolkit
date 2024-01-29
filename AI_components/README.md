@@ -1,8 +1,14 @@
 # Toolkit sub-category "AI"
-  Here you will find...Components from category: Ambrosinus // Sub-Category: AI
+  Here you will find...Components from category: Ambrosinus // Sub-Category: AI  **(new position since Ambrosinus-Toolkit v1.2.1 | 3.AI)**
+<br>
+
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/11/GHUSER_icon-LA.png" width="10%" height="10%"><img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/11/GH_icon-LA.png" width="10%" height="10%">
+
+<br>
 <br>
 
 **These components require some python libraries in order to work properly, so take at look to the articles on my website.**
+
 <br>
 <br>
 
