@@ -1,3 +1,12 @@
+# Toolkit sub-category "Image"
+  Here you will find...Components from category: Ambrosinus // Sub-Category: Extra  **(new position since Ambrosinus-Toolkit v1.2.1 | 2.Image)**
+<br>
+
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/11/GHUSER_icon-LA.png" width="10%" height="10%"><img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/11/GH_icon-LA.png" width="10%" height="10%">
+
+<br>
+<br>
+
 ### GrayGaussMask
 Can generate a grayscale image and a blurred one
 
