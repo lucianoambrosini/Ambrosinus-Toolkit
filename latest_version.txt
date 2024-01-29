@@ -1,7 +1,12 @@
 MAIN INFO
-Ambrosinus-Toolkit latest version is: 1.2.6
+Ambrosinus-Toolkit latest version is: 1.2.7
 -
 CHANGELOG
+v1.2.7
+-1 This version (v1.2.7) has been updated to the Grasshopper core 7.35.23346.11001 so user can get the toolkit inside Rhino v7 and Rhino v8 (all C# components);
+-2 Minor bugs fixed;
+-3 Added "SetCanvas" component (light version). You can customize partially your canvas and components;
+
 v1.2.6
 -1 Added AI variation mode locally into the AI subcategory. Now You can run Stable Diffusion with this feature you can alter the images through the "Denoise" parameter and the use of the editing mask;
 -2 Added Text-to-3D, Image-to-3D and text-to-texture from mesh.ai service into the AI subcategory. The "MeshyReq" generates the request while "MeshyRet" gets all files elaborate through the API key (WIP in the next few days, I will upload the "ghuser" objects to the GitHub page;
