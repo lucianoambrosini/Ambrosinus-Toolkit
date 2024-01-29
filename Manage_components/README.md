@@ -14,4 +14,4 @@ This component has been available since **Ambrosinus-Toolkit v1.2.7** – it is 
 
 Extra info:  [SetCanvas component info](https://ambrosinus.altervista.org/blog/set-gh-canvas-light)
 <br>
-Video demo: WIP...
+Video demo: https://youtu.be/aX0Y9CjB28A
