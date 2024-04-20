@@ -14,11 +14,18 @@
 
 ### AI as rendering engine (Stable Diffusion and ControlNET neural network run locally)
 **Since Ambrosinus-Toolkit v1.1.9**
-These are a set of components under development and are able to run Stable Diffusion and ControlNET locally (thanks to AUTOMATIC1111 project). The first two components developed are *LaunchSD_loc* and *AIeNG_loc*.
+These are a set of components under development and can run Stable Diffusion and ControlNET locally (thanks to AUTOMATIC1111 project). The first two components developed are *LaunchSD_loc* and *AIeNG_loc*, but many others components have been added, even **AI outpainting since ATk v1.2.8**.
 <br>
 
 <div align="center">
 <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/03/def_test_01.jpg" width="70%" height="70%">
+</div>
+<br>
+<br>
+
+## Outpainting
+<div align="center">
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2024/04/AIoutpaint_demo_02.jpg" width="70%" height="70%">
 </div>
 
 **OFFICIAL ARTICLE**  ---> [AI as Rendering Engine: running Stable Diffusion and ControlNET locally via Grasshopper](https://ambrosinus.altervista.org/blog/ai-as-rendering-eng-sd-controlnet-locally)
