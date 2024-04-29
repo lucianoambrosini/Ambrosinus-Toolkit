@@ -33,7 +33,7 @@ The author shares the use of all the components inside the Ambrosinus-Toolkit pl
 <br>
 <br>
 
-## Stay informed with the latest breaking news reported below, allowing you to keep up-to-date in real-time—or close to it. 😅
+## Stay informed with the latest ATk breaking news reported below, allowing you to keep up-to-date in real-time—or close to it. 😅
 
 ⚠️🚧 I am updating a minor bug that occurred when running ATk v1.2.8 in "canny" mode, stay tuned! Soon the fixed release.
 
