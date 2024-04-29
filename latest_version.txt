@@ -3,7 +3,7 @@ Ambrosinus-Toolkit latest version is: 1.2.9
 -
 CHANGELOG
 v1.2.9
--1 I am updating some minor bugs encountered when running "canny" mode through the "AItxtToimg" component. Stay tuned! Soon the release fixed;
+-1 I am updating some minor bugs encountered when running "canny" mode through the "AItxtToimg" component. Stay tuned! Soon the fixed release;
 
 v1.2.8
 -1 Added new component "AIoutpaint". Now You can explore everything outside of the image frame;
