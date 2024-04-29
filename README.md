@@ -26,14 +26,23 @@ https://github.com/lucianoambrosini/Ambrosinus-Toolkit/wiki
 
 ### Toolkit bar under development (work in progress) 🦏 🦗 🐍 C#
 
-The author share the use of the all components inside the Ambrosinus-Toolkit plugin. Currently, no codes have been shared yet.
+The author shares the use of all the components inside the Ambrosinus-Toolkit plugin. Currently, no codes have been shared yet.
 
 *Check DEV Log Status* [at the bottom of this page](https://ambrosinus.altervista.org/blog/ambrosinus-toolkit/)
 
 <br>
 <br>
 
+## Stay informed with the latest breaking news reported below, allowing you to keep up-to-date in real-time—or close to it. 😅
+
+⚠️🚧 I am updating a minor bug that occurred when running ATk v1.2.8 in "canny" mode, stay tuned! Soon the fixed release.
+
+<br>
+<br>
+<br>
+
 <div align="center">
-<a href="https://www.buymeacoffee.com/Ambrosinus"><img src="https://img.buymeacoffee.com/button-api/?text=Coffee break?&emoji=☕&slug=Ambrosinus&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+<a href="https://www.buymeacoffee.com/Ambrosinus" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </div>
+
 
