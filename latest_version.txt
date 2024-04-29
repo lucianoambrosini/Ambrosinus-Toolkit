@@ -1,7 +1,13 @@
 MAIN INFO
-Ambrosinus-Toolkit latest version is: 1.2.7
+Ambrosinus-Toolkit latest version is: 1.2.9
 -
 CHANGELOG
+v1.2.9
+-1 I am updating some minor bugs encountered when running "canny" mode through the "AItxtToimg" component. Stay tuned!;
+
+v1.2.8
+-1 Added new component "AIoutpaint". Now You can explore everything outside of the image frame;
+
 v1.2.7
 -1 This version (v1.2.7) has been updated to the Grasshopper core 7.35.23346.11001 so user can get the toolkit inside Rhino v7 and Rhino v8 (all C# components);
 -2 Minor bugs fixed;
