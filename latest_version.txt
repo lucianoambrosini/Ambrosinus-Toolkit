@@ -3,7 +3,11 @@ Ambrosinus-Toolkit latest version is: 1.2.9
 -
 CHANGELOG
 v1.2.9
--1 I am updating some minor bugs encountered when running "canny" mode through the "AItxtToimg" component. Stay tuned! Soon the fixed release;
+-1 I have updated some minor bugs encountered when running "canny" mode through the "AItxtToimg" component;
+-2 Added auto-populate feature to all value list components involved in the grasshopper definition and AI Stable Diffusion components. Now ControlNET lists (samplers, resizing features and checkpoints annotators) will be updated automatically simply by connecting the default value list Grasshopper component;
+-3 Added the "ValueListPopulator" component into the Manage subcategory. Through this component, you can set a custom value list by passing your keys and items. It is possible to add quotes as well;
+-4 Added a funny "ATk Support BuyMeACoffee" component into the About subcategory just to share a moment of virtual friendship (if you wish); 
+-5 As always Stay tuned!
 
 v1.2.8
 -1 Added new component "AIoutpaint". Now You can explore everything outside of the image frame;
