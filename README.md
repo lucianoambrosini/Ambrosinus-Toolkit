@@ -42,5 +42,5 @@ The author shares the use of all the components inside the Ambrosinus-Toolkit pl
 <br>
 
 <div align="center">
-<a href="https://www.buymeacoffee.com/Ambrosinus" target="_blank"><img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2024/04/BuyMeNeapolitanCoffee_01.png" alt="Buy Me A Coffee" width="30%" height="30%"></a>
+<a href="https://www.buymeacoffee.com/Ambrosinus" target="_blank"><img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2024/05/bmc_comp_01.png" alt="Buy Me A Coffee" width="25%" height="25%"></a>
 </div>
