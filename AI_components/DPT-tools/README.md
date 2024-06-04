@@ -17,8 +17,27 @@ This component runs the DPT process to calculate the monocular depth estimation 
 <br>
 <br>
 
+### LA_DPTSemSeg-GH.ghuser 
+**Current component Build 101**
+
+This component runs the DPT process to perform the semantic segmentation analysis over an image or a set of images. It also can generate Image segmentation ovelayered on the BaseIMG, the segmented mask and ultimately it generates a TXT file within all the data extracted from the image/s.
+<br>
+
+<div align="center">
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2024/06/DPTSemSeg_comp_01.png" width="18%" height="18%">
+</div>
+<br>
+<br>
+
+**ABOUT COMPONENTS**  ---> [Info]()
+
+**GitHub AToolkitDPT**       -- > [Requirements](https://github.com/lucianoambrosini/AToolkitDpt)
+
+<br>
+<br>
+
 >[!WARNING]
->**This Cluster and User object work with Rhino v8 too.**<br>
-*Anyway, pay attention if you try to open or edit it the cluster will go into "protection mode" and Rhino could crash.*<br>
+>**These Clusters and User objects work with Rhino v8 too.**<br>
+*Anyway, pay attention if you try to open or edit them the clusters will go into "protection mode" and Rhino could crash.*<br>
 **If you are interested in my works or code, please let me know**😉
 
