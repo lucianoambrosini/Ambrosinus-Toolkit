@@ -60,6 +60,19 @@ Download: https://github.com/lucianoambrosini/Ambrosinus-Toolkit/tree/main/AI_co
 <br>
 <br>
 
+### DPTSemSeg-GH
+This component runs the DPT image semantic segmentation. It also can generate segmented-image, segmented-mask and all data analysis of the process.
+
+Download: https://github.com/lucianoambrosini/Ambrosinus-Toolkit/tree/main/AI_components/DPT-tools
+
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2024/06/DPTSemSeg_def_05.jpg" width="70%" height="70%">
+
+**Extra info:** https://bit.ly/SemanticSegmentationGH
+<br>
+**Video demo:** https://youtu.be/t3ztM7b8I48
+<br>
+<br>
+
 ### StabilityAI_StableDiffusion_GH
 Stable Diffusion inside Grasshopper with Python and Stability AI library from DreamStudio
 
