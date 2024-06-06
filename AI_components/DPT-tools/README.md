@@ -29,7 +29,7 @@ This component runs the DPT process to perform the semantic segmentation analysi
 <br>
 <br>
 
-**ABOUT COMPONENTS**  ---> [Info]()
+**ABOUT COMPONENTS**  ---> [Info](https://bit.ly/SemanticSegmentationGH)
 
 **GitHub AToolkitDPT**       -- > [Requirements](https://github.com/lucianoambrosini/AToolkitDpt)
 
