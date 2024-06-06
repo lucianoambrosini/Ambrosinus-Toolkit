@@ -1,10 +1,5 @@
->[!NOTE]
->### I am updating DPT tools... [05/06/2024] Stay tuned! ;)
-<br>
-<br>
-
 ### LA_DPTto3D-GH.ghuser 
-**Current component Build 101**
+**Current component Build 102**
 
 This component runs the DPT process to calculate the monocular depth estimation of the image source. It also can generate PointCloud coordinates stored in a PLY file and a 3D preview of the PoinCloud or of the mesh object.
 <br>
@@ -23,7 +18,7 @@ This component runs the DPT process to calculate the monocular depth estimation 
 <br>
 
 ### LA_DPTSemSeg-GH.ghuser 
-**Current component Build 101**
+**Current component Build 102**
 
 This component runs the DPT process to perform the semantic segmentation analysis over an image or a set of images. It also can generate Image segmentation ovelayered on the BaseIMG, the segmented mask and ultimately it generates a TXT file within all the data extracted from the image/s.
 <br>
