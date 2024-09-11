@@ -2,7 +2,7 @@
   Here you will find...Components from category: Ambrosinus // Sub-Category: AI  **(new position since Ambrosinus-Toolkit v1.2.1 | 3.AI)**
 <br>
 
-<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/11/GHUSER_icon-LA.png" width="10%" height="10%"><img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/11/GH_icon-LA.png" width="10%" height="10%">
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/11/GHUSER_icon-LA.png" width="70%" height="70%"><img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/11/GH_icon-LA.png" width="70%" height="70%">
 
 <br>
 <br>
