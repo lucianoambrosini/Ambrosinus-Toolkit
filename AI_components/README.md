@@ -7,14 +7,21 @@
 <br>
 <br>
 
-**These components require some python libraries in order to work properly, so take at look to the articles on my website.**
+> [!IMPORTANT]  
+> Crucial information necessary for users to succeed in using these AI components.
+> 
+> **These components require some Python libraries in order to work properly, so I have realized a full installation guide.**
+> 
+> <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/10/Requirements_Installation-User-Guide-v1.0.jpg" width="20%" height="20%">
+
+> [ATk Requirements Installation - User Guide](https://github.com/lucianoambrosini/Ambrosinus-Toolkit/blob/main/AI_components/ATk%20Requirements%20Installation%20-%20User%20Guide%20v1.0.pdf)
 
 <br>
 <br>
 
 ### AI as rendering engine (Stable Diffusion and ControlNET neural network run locally)
 **Since Ambrosinus-Toolkit v1.1.9**
-These are a set of components under development and can run Stable Diffusion and ControlNET locally (thanks to AUTOMATIC1111 project). The first two components developed are *LaunchSD_loc* and *AIeNG_loc*, but many others components have been added, even **AI outpainting since ATk v1.2.8**.
+These are a set of components under development and can run Stable Diffusion and ControlNET locally (thanks to AUTOMATIC1111 project). The first two components developed are *LaunchSD_loc* and *AIeNG_loc*, but many other components have been added, even **AI outpainting since ATk v1.2.8**.
 <br>
 
 <div align="center">
