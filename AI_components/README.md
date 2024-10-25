@@ -14,7 +14,7 @@
 > 
 > <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/10/Requirements_Installation-User-Guide-v1.0.jpg" width="20%" height="20%">
 
-> [ATk Requirements Installation - User Guide](https://github.com/lucianoambrosini/Ambrosinus-Toolkit/blob/main/AI_components/ATk%20Requirements%20Installation%20-%20User%20Guide%20v1.0.pdf)
+> [ATk Requirements Installation - User Guide](https://bit.ly/ATkReqInstallGuidev1)
 
 <br>
 <br>
