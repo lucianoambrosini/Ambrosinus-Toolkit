@@ -4,7 +4,7 @@ Ambrosinus-Toolkit latest version is: 1.3.0
 CHANGELOG
 v1.3.0
 -1 I have updated ATk with the latest Stable Diffusion Annotators, Preprocess model and Samplers;
--2 Integrated Cthe ControlNET mode to give priority to prompt/CN/Balanced;
+-2 Integrated the ControlNET mode to give priority to prompt/CN/Balanced;
 -3 Improved the metadata info text output embedded into generated images. Now it shows WebUI and ControlNET (A1111) versions;
 -4 Added the "ATkImagePreview" component into the Image subcategory. This component displays images on the Grasshopper canvas and can be scaled by a factor;
 
