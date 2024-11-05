@@ -1,7 +1,13 @@
 MAIN INFO
-Ambrosinus-Toolkit latest version is: 1.2.9
+Ambrosinus-Toolkit latest version is: 1.3.0
 -
 CHANGELOG
+v1.3.0
+-1 I have updated ATk with the latest Stable Diffusion Annotators, Preprocess model and Samplers;
+-2 Integrated Cthe ControlNET mode to give priority to prompt/CN/Balanced;
+-3 Improved the metadata info text output embedded into generated images. Now it shows WebUI and ControlNET (A1111) versions;
+-4 Added the "ATkImagePreview" component into the Image subcategory. This component displays images on the Grasshopper canvas and can be scaled by a factor;
+
 v1.2.9
 -1 I have updated some minor bugs encountered when running "canny" mode through the "AItxtToimg" component;
 -2 Added auto-populate feature to all value list components involved in the grasshopper definition and AI Stable Diffusion components. Now ControlNET lists (samplers, resizing features and checkpoints annotators) will be updated automatically simply by connecting the default value list Grasshopper component;
