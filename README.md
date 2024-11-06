@@ -1,6 +1,6 @@
 # Ambrosinus toolkit info
 
-[![GitHub release](https://img.shields.io/badge/release-v1.3.0-blue)](https://github.com/lucianoambrosini/Ambrosinus-Toolkit/blob/main/latest_version.txt)
+[![GitHub release](https://img.shields.io/badge/release-v1.3.1-blue)](https://github.com/lucianoambrosini/Ambrosinus-Toolkit/blob/main/latest_version.txt)
 [![GitHub Food4Rhino](https://img.shields.io/badge/Food4Rhino-plugin-lightgrey)](https://bit.ly/AmbrosinusToolkit_Food4Rhino)
 [![GitHub release date](https://img.shields.io/badge/last%20release%20date-Nov_2024-green)](https://bit.ly/Ambrosinus-Toolkit)
 [![GitHub support forum](https://img.shields.io/badge/Support%20forum-Help-critical)](https://discourse.mcneel.com/t/ambrosinus-toolkit/147124)
@@ -35,7 +35,7 @@ The author shares the use of all the components inside the Ambrosinus-Toolkit pl
 
 ## Stay informed with the latest ATk breaking news reported below, allowing you to keep up-to-date in real-time—or close to it. 😅
 
-⚠️ ATk v1.3.0 is out! As always stay abreast with ATk 😉
+⚠️ ATk v1.3.1 is out! As always stay abreast with ATk 😉
 
 <br>
 <br>
