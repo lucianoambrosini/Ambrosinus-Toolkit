@@ -3,9 +3,13 @@
 
 ### AI as rendering engine (Stable Diffusion and ControlNET neural network run locally)
 
-✅**Ambrosinus-Toolkit v1.3.0**<br>
-All the Grasshopper demo files have been updated to the latest ATk version with all new Stable SDiffusion Annotators, Preprocess models and Samplers.
-⚠️ I am fixing the "loop execution" issue... stay tuned!
+🆕 ✅**Ambrosinus-Toolkit v1.3.1**<br>
+All the Grasshopper demo files have been updated to the latest ATk version with all new Stable SDiffusion Annotators, Preprocess models and Samplers.<br>
+
+> [!NOTE]
+- [x] I have fixed the "loop execution" issue... stay tuned!
+<br>
+<br>
 
 **Ambrosinus-Toolkit v1.2.6**<br>
 The Variation mode (aka Image-To-Image mode) is added to the file named *"SD_Local_ControlNET_v10-11_v126_AIvariation_base&server_demo-01"* that is exactly the same as this: *"SD_Local_ControlNET_v10-11_v125_base&server_demo-01"* the main difference is that the definition v1.2.6 has the new component "AIimgToimg_loc" (Image-to-Image I2I) while in the v1.2.5 there is the "AIeng_loc" (Text-to-Image T2I). 
