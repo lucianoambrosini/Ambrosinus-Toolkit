@@ -1,7 +1,10 @@
 MAIN INFO
-Ambrosinus-Toolkit latest version is: 1.3.0
+Ambrosinus-Toolkit latest version is: 1.3.1
 -
 CHANGELOG
+v1.3.1
+-1 I have updated ATK to version 1.3.1 to fix an exception that was causing a "loop execution".
+
 v1.3.0
 -1 I have updated ATk with the latest Stable Diffusion Annotators, Preprocess model and Samplers;
 -2 Integrated the ControlNET mode to give priority to prompt/CN/Balanced;
