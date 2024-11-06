@@ -7,7 +7,7 @@
 All the Grasshopper demo files have been updated to the latest ATk version with all new Stable SDiffusion Annotators, Preprocess models and Samplers.<br>
 
 > [!NOTE]
-- [x] I have fixed the "loop execution" issue... stay tuned!
+>- [x] I have fixed the "loop execution" issue... stay tuned!
 <br>
 <br>
 
