@@ -12,7 +12,7 @@
 > 
 > **These components require some Python libraries in order to work properly, so I have realized a full installation guide.**
 > 
-> <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/10/Requirements_Installation-User-Guide-v1.0.jpg" width="20%" height="20%">
+> <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/04/Requirements_Installation-User-Guide-v1.jpg" width="20%" height="20%">
 
 > [ATk Requirements Installation - User Guide](https://bit.ly/ATkReqInstallGuidev1)
 
