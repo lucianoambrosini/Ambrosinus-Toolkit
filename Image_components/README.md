@@ -10,6 +10,14 @@
 ### GrayGaussMask
 Can generate a grayscale image and a blurred one
 
+<br>
+
+>[!IMPORTANT]
+>**This component it has been completely replaced with a C# code-based one, you will get hands-on with  ATk v1.3.2 (coming soon)**
+>*Below is the Python version which is still downloadable*
+
+<br>
+
 Current version: **Build 102**
 
 About GrayGaussMask component **In order to run it you need to install the Python library** as shown here: ***pip install torchvision***
