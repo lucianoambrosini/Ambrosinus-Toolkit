@@ -38,6 +38,15 @@ The author shares the use of all the components inside the Ambrosinus-Toolkit pl
 ⚠️ ATk v1.3.1 is out! As always stay abreast with ATk 😉
 
 <br>
+
+**[ATk development behind the scene PART 1](https://youtu.be/afjBAURkNME) at the Envisioning Design Day (EDD - June 2024) at the European Institute of the Design (IED) Milan**
+<br>
+<div align="center">
+  <a href="https://youtu.be/afjBAURkNME" target="_blank"><img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2024/06/EDD-Talk_part1_timestamp.png" alt="Luciano Ambrosini EDD 24" width="45%" height="45%"></a>
+<a href="https://youtu.be/afjBAURkNME" target="_blank"><img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2024/06/EDD-Talk_part1-01.jpg" alt="Luciano Ambrosini EDD 24" width="45%" height="45%"></a>
+</div>
+
+<br>
 <br>
 <br>
 
