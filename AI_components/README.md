@@ -12,9 +12,20 @@
 > 
 > **These components require some Python libraries in order to work properly, so I have realized a full installation guide.**
 > 
-> <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/04/Requirements_Installation-User-Guide-v1.jpg" width="20%" height="20%">
-
+> <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/04/ATk_guide_cover_v1_1.jpg" width="20%" height="20%">
+>
 > [ATk Requirements Installation - User Guide](https://bit.ly/ATkReqInstallGuidev1)
+
+<br>
+<br>
+
+> [!TIP]  
+> Since ATk v1.3.2, it is possible to use the SDstyles component, which utilizes the styles contained in this CSV file.
+> 
+> **Download it and copy&paste into the SD root folder: ...\stable-diffusion-webui\styles.csv**
+> [Download CSV styles](https://github.com/lucianoambrosini/Ambrosinus-Toolkit/edit/main/AI_components/styles.csv)
+>
+> <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2025/02/ATk-Styles_comp-3.png" width="30%" height="30%">
 
 <br>
 <br>
