@@ -1,13 +1,13 @@
 # Ambrosinus toolkit info
 
-[![GitHub release](https://img.shields.io/badge/release-v1.3.1-blue)](https://github.com/lucianoambrosini/Ambrosinus-Toolkit/blob/main/latest_version.txt)
+[![GitHub release](https://img.shields.io/badge/release-v1.3.2-blue)](https://github.com/lucianoambrosini/Ambrosinus-Toolkit/blob/main/latest_version.txt)
 [![GitHub Food4Rhino](https://img.shields.io/badge/Food4Rhino-plugin-lightgrey)](https://bit.ly/AmbrosinusToolkit_Food4Rhino)
-[![GitHub release date](https://img.shields.io/badge/last%20release%20date-Nov_2024-green)](https://bit.ly/Ambrosinus-Toolkit)
+[![GitHub release date](https://img.shields.io/badge/last%20release%20date-Feb_2025-green)](https://bit.ly/Ambrosinus-Toolkit)
 [![GitHub support forum](https://img.shields.io/badge/Support%20forum-Help-critical)](https://discourse.mcneel.com/t/ambrosinus-toolkit/147124)
 [![GitHub license](https://img.shields.io/github/license/lucianoambrosini/Ambrosinus-Toolkit?color=orange)](https://github.com/lucianoambrosini/Ambrosinus-Toolkit/blob/main/LICENSE)
 
 
-**Ambrosinus Toolkit** is a grasshopper toolset of components and utilities useful for the user's projects - From design to management. *The most trending feature is the possibility to run DALL-E and StabilityAI requesting processes inside Grasshopper.* Now you can! Please, read below for more info.
+**Ambrosinus Toolkit** is a grasshopper toolset of components and utilities useful for the user's projects - From design to management. *The most trending feature is the possibility to run DALL-E, StabilityAI and Stable Diffusion (WebUI//Automatic 1111 prj) directly inside Grasshopper.* Now you can! Please, read below for more info.
 
 <div align="center">
 <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2022/11/logo_AT-AD-02.png" width="30%" height="30%">
@@ -17,7 +17,7 @@
 https://github.com/lucianoambrosini/Ambrosinus-Toolkit/wiki
   
 <div align="center">
-<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/04/LA_screen_toolbar_21.png" width="90%" height="90%">
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/04/LA_screen_toolbar_22.png" width="90%" height="90%">
 </div>
 
 <br>
