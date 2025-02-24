@@ -1,35 +1,17 @@
-# AUTOMATIC1111 has been update so ControlNET may not works properly (I am working to update this component)
-📣 ControlNET has been updated to version 1.1 but AUTOMATIC1111 API support is not yet implemented. If you want to use this Grasshopper component, please be sure to install [the ControlNET v1.0 version as explained here](https://github.com/lllyasviel/webui-controlnet-v1-archived).
+## AI as rendering engine (Stable Diffusion and ControlNET neural network run locally)
 
-### AI as rendering engine (Stable Diffusion and ControlNET neural network run locally)
-
-🆕 ✅**Ambrosinus-Toolkit v1.3.1**<br>
+🆕 ✅**Ambrosinus-Toolkit v1.3.2 is out!**<br>
 All the Grasshopper demo files have been updated to the latest ATk version with all new Stable SDiffusion Annotators, Preprocess models and Samplers.<br>
 
 > [!NOTE]
->- [x] I have fixed the "loop execution" issue... stay tuned!
+>- [x] With this release most of the main StableDiffusion (WebUI) features have been added to the single ControlNET unit procedures, so enjoy them!
+>- [x] first multi ControlNET units componments are in WIP mode, it is more likely I will improve them in the next ATk version, but for now you are able to execute the "transferring style" procedure... stay tuned!
 <br>
-<br>
-
-**Ambrosinus-Toolkit v1.2.6**<br>
-The Variation mode (aka Image-To-Image mode) is added to the file named *"SD_Local_ControlNET_v10-11_v126_AIvariation_base&server_demo-01"* that is exactly the same as this: *"SD_Local_ControlNET_v10-11_v125_base&server_demo-01"* the main difference is that the definition v1.2.6 has the new component "AIimgToimg_loc" (Image-to-Image I2I) while in the v1.2.5 there is the "AIeng_loc" (Text-to-Image T2I). 
 
 <div align="center">
-<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2024/01/AIvariation_demo_01.jpg" width="70%" height="70%">
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2025/02/ATk-I2I-VariationC_N_demo-01-1.jpg" width="70%" height="70%">
 </div>
-<br>
 
-**Ambrosinus-Toolkit v1.2.3**
-I have fixed a bug that comes up after some A1111 API updates. The issue generally appeared with this error message: "Index was outside the bounds of the array". it was related to the info text embedded in the generated image. Let me know if some other issues pop up! 😉
-
-**Since Ambrosinus-Toolkit v1.2.2**
-Now it is possible running Stable Difussion on your LAN. Please, [for more info have a look here](https://bit.ly/SDandCNinsideGH-Upd3) 😉
-
-**Since Ambrosinus-Toolkit v1.1.9**
-These are a set of components under development and are able to run SD and CN locally. The first two components developed are *LaunchSD_loc* and *AIeNG_loc*.
-
-
-⚠️**Important Run Rhino as Administrator!** *Each session needs to run firstly the LAunchSD_loc component to establish a live connection between the Stable Diffusion engine and the Grasshopper components.*
 <br>
 <br>
 
