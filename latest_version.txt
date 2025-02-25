@@ -1,7 +1,27 @@
 MAIN INFO
-Ambrosinus-Toolkit latest version is: 1.3.1
+Ambrosinus-Toolkit latest version is: 1.3.2
 -
 CHANGELOG
+v1.3.2
+-1 T2I (single ControlNET unit = sCNu) - "AItxtToimg" component has been updated with two sets of features in the context menu. Added ControlNET general settings with "low vram" and "pixel perfect" options. Added Sampling type with Automatic, Karras and Uniform sampling system. Fixed and enriched the infotext layout embedded to PNG generated image file;
+-2 I2I (sCNu) - "AIimgToimg" component has been updated with three sets of features in the context menu. Added ControlNet general settings and Sampling type as AItxtToimg component, in addition now there is a WebUI Mask settings where user can set up what type of masking behaviour SD must run such as inpaint not masked option (by default it will inpaint the masked one), Fill/Latent Noise/Latent nothing behaviours. Added the Mask blur settings to improve the tranbsition area between the masked area overlapped to the original source image. Added the IP2P processor for the inpaint-process. Fixed and enriched the infotext layout embedded to PNG generated image file;
+-3 Outpainting (sCNu) - "AIoutpaint" component has been updated with two sets of features in the context menu. Added ControlNet general settings and Sampling type as AItxtToimg component. Fixed and enriched the infotext layout embedded to PNG generated image file;
+-4 Added a new component named "ARatioImg". This component helps set image size, width/height dimensions and the image Aspect Ratio. I provided a bunch of pre-setted AR to speed up the choice. In the context menu, it is possible to assign a different component's behaviour to assign the maximum size in pixels to the minimum image's dimension (by default the component assigns MaxPx to the maximum one according to the image's AR);
+-5 "OpenDir" component has been improved in performance also in providing the filename and the full path of the input image, which is very helpful in setting up AI component;
+-6 "ImageMask" component as been improved in managing the final output image. Now it is possible inver colors from b/w to w/b and even choice the output format when the user assigns a back/mask custom colors;
+-7 Added a new component named "SetPreProcessor". This component can generate and partially set mask images elaborated from ControlNET processors (canny, depth, lineart etc.). These masks will be generated in a temporary folder so when the user switches the component to false that folder disappears, in any case it can turn off this behaviour by setting true the option in the context menu, in this way the preprocessor mask image can be used even in a simple I2I process as simple mask;
+-8 Fixed the "SetCanvas" component;
+-9 According to the above updates I have improved, fixed and updated also the Windows OS App "WinSDlauncher" to version 1.1.4. This App can be used side by side with ATk plugin for Grasshopper especially to run this latter over your LAN. I recommend reading more about it on my website/GitHub page;
+-10 Fixed seed input params to manage 10 digits format;
+-11 Updated and fixed the "Upscaling" component;
+-12 Added a new component named "SDstyles" for the T2I process. This component will read and apply 250+ styles available in a CSV file provided and shared on my website/GitHub page, please download and install it if you want to use this new component with "AItxtToimg". In the context menu you can define two different behaviours, show styles as numbers or with their names;
+-13 Improved significantly the "ViewCapture" component. This component can now interact with the Rhino viewport, allowing the user to easily set the aspect ratio of the screen-captured image. This means that you can save your 3D model image efficiently and have it quickly ready as an input image in the T2I process. Within its context menu, the user can set up the real-time aspect ratio vision overlapped to the Rhino canvas and even adjust the aspect ratio according to the viewport. According to ARatioImg, the user can select from different aspect ratio presets (10+) to quickly adapt the best aspect ratio to her/his 3D model;
+-14 According to the possibility of running ATk in LAN mode, each GenAI components (T2I/I2I/Outpaint) when run activate and launch the "SDProgressMinitor" window. From this window, the user can follow and manage the StableDiffusion generative progression, skipping and even interrupting it without forcing the shutdown of the CMD window (WebUI client black window). this feature is fundamental to follow the advancement during the LAN running;
+-15 Added and Updated the ATk installation user guide downloadable from the Ambrosinus Toolkit official page reachable from all AI components by clicking on "AmbrosinusDEV log" from their context menu;
+-16 "AtkImageViewer" component has been updated and fixed;
+-17 "GrayGaussMask" component has been completely coded into C# language. Now it is available within ATk and anymore as a Python cluster;
+-18 The Multi ControlNET (mCNu) are currently in development (it outperforms the capability to transfer styles to different images). I have already demonstrated it on my LinkedIn profile, but for this v1.3.2, I opted to postpone its release to the next ATk version due to the time-consuming process of updating and developing this toolkit completely for passion (and improving users' workflow);
+
 v1.3.1
 -1 I have updated ATK to version 1.3.1 to fix an exception that was causing a "loop execution".
 
