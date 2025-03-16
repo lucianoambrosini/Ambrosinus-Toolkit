@@ -35,7 +35,7 @@ The author shares the use of all the components inside the Ambrosinus-Toolkit pl
 
 ## Stay informed with the latest ATk breaking news reported below, allowing you to keep up-to-date in real-time—or close to it. 😅
 
-⚠️ ATk v1.3.1 is out! As always stay abreast with ATk 😉
+⚠️ ATk v1.3.2 is out! As always stay abreast with ATk 😉
 
 <br>
 
