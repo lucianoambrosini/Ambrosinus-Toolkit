@@ -47,6 +47,15 @@ The author shares the use of all the components inside the Ambrosinus-Toolkit pl
 </div>
 
 <br>
+
+**[ATk development behind the scene PART 2](https://youtu.be/ReXGVIiP3xA)**
+<br>
+<div align="center">
+  <a href="https://youtu.be/ReXGVIiP3xA" target="_blank"><img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2025/04/EDD-Talk_part2_timestamp.jpg" alt="Luciano Ambrosini EDD 24" width="45%" height="45%"></a>
+<a href="https://youtu.be/ReXGVIiP3xA" target="_blank"><img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2025/04/EDD-Talk_part2-02.jpg" alt="Luciano Ambrosini EDD 24" width="45%" height="45%"></a>
+</div>
+
+<br>
 <br>
 <br>
 
