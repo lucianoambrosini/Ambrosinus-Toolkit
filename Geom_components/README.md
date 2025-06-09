@@ -31,5 +31,3 @@ New Grasshopper components for determining the minimum bounding volume that encl
 
 <br>
 <br>
-
-
