@@ -16,7 +16,7 @@
 <br>
 
 ### Minimum Bounding Box (MinBBox) and Minimum Bounding Sphere (MinBSph) are included into ATk v1.3.3
-These are a set of components under development and can run Stable Diffusion and ControlNET locally (thanks to AUTOMATIC1111 project). The first two components developed are *LaunchSD_loc* and *AIeNG_loc*, but many other components have been added, even **AI outpainting since ATk v1.2.8**.
+New Grasshopper components for determining the minimum bounding volume that encloses 2D/3D objects.
 <br>
 
 <div align="center">
