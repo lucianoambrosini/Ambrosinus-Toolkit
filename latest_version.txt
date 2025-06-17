@@ -1,7 +1,18 @@
 MAIN INFO
-Ambrosinus-Toolkit latest version is: 1.3.2
+Ambrosinus-Toolkit latest version is: 1.3.3
 -
 CHANGELOG
+v1.3.3
+-1 The "LaunchSD_local" component has been updated, now it receives input data from the new "SDModelPaths" component;
+-2 Added new "SDModelPaths" component, now the user can specify the full path of specific system folders for checkpoint, VAE, hypernetworks, LoRA and embeddings models;
+-3 The Atk_MultiCN component has been updated with the launch of the "SDProgressMonitor" window;
+-4 Integrated new component "Gemini ImageGen" that uses Google AI (Gemini Flash Preview"). This component requires the insertion of a Google API key that can be generated for free. It is likely that due to recent geopolitical restrictions, it is necessary to use a VPN to run the component for free from your geographic location;
+-5 The "launchSDopt" component has been replaced by two new components, "LaunchSDchkp" and "LaunchSDvae". Implementation due to the integration of "SDModelPaths" and therefore the possibility of indicating personal paths to the folders of the processing models downloaded locally by the user;
+-6 Introduced a new sub-category "Geom", which will collect new components dedicated to geometric tasks;
+-7 Added new component "MinBBox", minimum bounding box;
+-8 Added new component "MinBSph", minimum bounding sphere;
+-9 Some new features were presented at the Envisioning Design Day event held at the Instituto Europeo di Design (IED) in Milan on June 14, 2025, the video speeches will be published in the next few weeks;
+
 v1.3.2
 -1 T2I (single ControlNET unit = sCNu) - "AItxtToimg" component has been updated with two sets of features in the context menu. Added ControlNET general settings with "low vram" and "pixel perfect" options. Added Sampling type with Automatic, Karras and Uniform sampling system. Fixed and enriched the infotext layout embedded to PNG generated image file;
 -2 I2I (sCNu) - "AIimgToimg" component has been updated with three sets of features in the context menu. Added ControlNet general settings and Sampling type as AItxtToimg component, in addition now there is a WebUI Mask settings where user can set up what type of masking behaviour SD must run such as inpaint not masked option (by default it will inpaint the masked one), Fill/Latent Noise/Latent nothing behaviours. Added the Mask blur settings to improve the tranbsition area between the masked area overlapped to the original source image. Added the IP2P processor for the inpaint-process. Fixed and enriched the infotext layout embedded to PNG generated image file;
