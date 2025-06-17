@@ -1,6 +1,6 @@
 ## AI as rendering engine (Stable Diffusion and ControlNET neural network run locally)
 
-🆕 ✅**Ambrosinus-Toolkit v1.3.2 is out!**<br>
+🆕 ✅**Ambrosinus-Toolkit v1.3.3 is out!**<br>
 All the Grasshopper demo files have been updated to the latest ATk version with all new Stable SDiffusion Annotators, Preprocess models and Samplers.<br>
 
 > [!NOTE]
