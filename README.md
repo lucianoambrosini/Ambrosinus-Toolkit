@@ -17,7 +17,7 @@
 https://github.com/lucianoambrosini/Ambrosinus-Toolkit/wiki
   
 <div align="center">
-<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/04/LA_screen_toolbar_22.png" width="90%" height="90%">
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2023/04/LA_screen_toolbar_23.png" width="90%" height="90%">
 </div>
 
 <br>
@@ -35,9 +35,12 @@ The author shares the use of all the components inside the Ambrosinus-Toolkit pl
 
 ## Stay informed with the latest ATk breaking news reported below, allowing you to keep up-to-date in real-time—or close to it. 😅
 
-⚠️ ATk v1.3.3 is out! As always stay abreast with ATk 😉
+> [!IMPORTANT]
+> ⚠️ ATk v1.3.3 is out! As always stay abreast with ATk 😉
 
 <br>
+
+### EDD 2024
 
 **[ATk development behind the scene PART 1](https://youtu.be/afjBAURkNME) at the Envisioning Design Day (EDD - June 2024) at the European Institute of the Design (IED) Milan**
 <br>
@@ -54,6 +57,13 @@ The author shares the use of all the components inside the Ambrosinus-Toolkit pl
   <a href="https://youtu.be/ReXGVIiP3xA" target="_blank"><img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2025/04/EDD-Talk_part2_timestamp.jpg" alt="Luciano Ambrosini EDD 24" width="45%" height="45%"></a>
 <a href="https://youtu.be/ReXGVIiP3xA" target="_blank"><img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2025/04/EDD-Talk_part2-02.jpg" alt="Luciano Ambrosini EDD 24" width="45%" height="45%"></a>
 </div>
+
+<br>
+<br>
+
+### EDD 2025
+
+**[NEW ATk development behind the scene PART 1 and PART 2]() at the Envisioning Design Day (EDD - June 2025) at the European Institute of the Design (IED) Milan - Coming soon...**
 
 <br>
 <br>
