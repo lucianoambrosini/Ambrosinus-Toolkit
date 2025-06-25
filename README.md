@@ -69,6 +69,18 @@ The author shares the use of all the components inside the Ambrosinus-Toolkit pl
 <br>
 <br>
 
+---
+
+## 📊 Project Stats
+
+![GitHub stars](https://img.shields.io/github/stars/lucianoambrosini/Ambrosinus-Toolkit)
+![GitHub issues](https://img.shields.io/github/issues/lucianoambrosini/Ambrosinus-Toolkit)
+![GitHub forks](https://img.shields.io/github/forks/lucianoambrosini/Ambrosinus-Toolkit)
+![GitHub last commit](https://img.shields.io/github/last-commit/lucianoambrosini/Ambrosinus-Toolkit)
+
+<br>
+<br>
+
 <div align="center">
 <a href="https://www.buymeacoffee.com/Ambrosinus" target="_blank"><img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2024/05/bmc_comp_01.png" alt="Buy Me A Coffee" width="25%" height="25%"></a>
 </div>
