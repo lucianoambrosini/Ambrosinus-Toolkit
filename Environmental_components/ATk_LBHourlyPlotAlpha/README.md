@@ -4,8 +4,22 @@
 
 **ATk_LBHourlyPlotAlpha** is a Grasshopper component that extends Ladybug Tools' Hourly Plot functionality with advanced alpha highlighting capabilities. It creates colored plots of hourly environmental data collections with the ability to visually emphasize specific hours of the year by fading non-highlighted periods. This component is ideal for environmental analysis workflows where you need to draw attention to specific time periods while maintaining context of the full annual dataset.
 
+<br>
+
+<div align="center">
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2025/11/LBHourlyPlotAlpha_comp_01.png" width="25%" height="300%">
+</div>
+
+<br>
+
 This component is part of the **Ambrosinus Toolkit** and builds upon the robust foundation of Ladybug Tools 1.8.0, maintaining full compatibility with Ladybug's data structures and visualization system.
 
+<div align="center">
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2025/11/5_Cooling_Hourly_x2_5.jpg" width="70%" height="300%">
+</div>
+
+<br>
+<br>
 ---
 
 ## Component Information
