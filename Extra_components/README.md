@@ -48,10 +48,11 @@ Video demo: https://youtu.be/nChyRWKOOLs
 <br>
 <br>
 
-### FrostMagicLab - Snowflakes Maker FREE
+### FrostMagicLab - Snowflakes Maker FREE (C# component included in the ATk plugin)
 I’m excited to share Snowflakes Maker FREE with the computational design community—a Grasshopper component that generates mathematically unique snowflakes with perfect N-fold symmetry. This isn’t just another parametric tool; it’s a celebration of natural complexity through computational design, and I’m making it freely available to everyone. 😅
 
 <img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2025/12/snowflakes_maker_gen_4.jpg" width="70%" height="70%">
 Extra info: https://lucianoambrosini.short.gy/SnowflakeMaker
 <br>
 Video demo: https://youtu.be/shXa_gqNOEI
+
