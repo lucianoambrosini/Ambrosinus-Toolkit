@@ -695,21 +695,84 @@ For questions, bug reports, or feature requests:
 2. **Blog:** Visit [Ambrosinus DEV Log](https://ambrosinus.altervista.org/blog/ambrosinus-toolkit/)
 3. **Ladybug Tools:** For base functionality questions, refer to [Ladybug Tools Discourse](https://discourse.ladybug.tools/)
 
+
 ---
 
 ## Installation
 
-### Method 1: Yak Package Manager (Recommended)
+### Method 1: Manual Installation (Current)
+
+**Step 1: Download the Component**
+- Download the latest `.ghpy` file from the [GitHub Releases](https://github.com/yourusername/ATk_LBHourlyPlotAlpha/releases) page
+- File name: `ATk_LBHourlyPlotAlpha_v1.0.ghpy`
+
+**Step 2: Locate Grasshopper Libraries Folder**
+
+In Grasshopper, navigate to:
 ```
-Coming soon - Component will be available via Grasshopper's package manager
+File → Special Folders → Components Folder
 ```
 
-### Method 2: Manual Installation
-1. Download the `.ghpy` file
-2. In Grasshopper, go to `File → Special Folders → Components Folder`
-3. Copy the `.ghpy` file into this folder
-4. Restart Rhino/Grasshopper
-5. Find component in `Ambrosinus → 7.Envi` category
+This will open your Grasshopper Libraries folder. The default path is:
+```
+C:\Users\[YourUsername]\AppData\Roaming\Grasshopper\Libraries\
+```
+
+**Step 3: Create ATk Folder (Recommended)**
+
+For better organization, create a dedicated folder for Ambrosinus Toolkit components:
+
+1. Inside the `Libraries` folder, create a new folder named: **`ATk_PyComponents`**
+2. Your path should look like:
+   ```
+   ...\Grasshopper\Libraries\ATk_PyComponents\
+   ```
+
+**Step 4: Copy Component File**
+
+Place the downloaded `.ghpy` file inside the `ATk_PyComponents` folder:
+```
+...\Libraries\ATk_PyComponents\ATk_LBHourlyPlotAlpha_v1.0.ghpy
+```
+
+**Step 5: Restart Grasshopper**
+
+- Close and reopen Rhino/Grasshopper
+- The component will appear in the **Ambrosinus → 7.Envi** category
+
+**Visual Guide:**
+```
+📁 Grasshopper
+  └─ 📁 Libraries
+      ├─ 📁 FireFly
+      ├─ 📁 Octopus_0.4
+      ├─ 📁 ATk_PyComponents  ← Create this folder
+      │   └─ 📄 ATk_LBHourlyPlotAlpha_v1.0.ghpy  ← Place component here
+      └─ 📁 TT Toolbox
+```
+
+> **💡 Why use a dedicated folder?**  
+> Using `ATk_PyComponents` folder keeps all Ambrosinus Toolkit components organized in one place. When the Package Manager version becomes available, it will automatically manage this folder structure for you.
+
+---
+
+### Method 2: Yak Package Manager (Coming Soon)
+
+Once a sufficient number of components are released, the entire **Ambrosinus Toolkit** will be available through Rhino's Package Manager for automated installation and updates.
+
+**Planned Installation (Future):**
+```
+1. In Rhino, run command: _PackageManager
+2. Search for: "Ambrosinus Toolkit"
+3. Click "Install"
+4. All components will be automatically installed to Libraries\ATk_PyComponents\
+```
+
+**Benefits of Package Manager Installation:**
+- ✅ One-click installation of entire toolkit
+- ✅ Automatic updates when new versions are released
+- ✅ Centralized management of all ATk components
+- ✅ Dependency resolution (if needed)
 
 ---
 
