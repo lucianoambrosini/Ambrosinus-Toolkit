@@ -5,6 +5,9 @@
 [![GitHub release date](https://img.shields.io/badge/last%20release%20date-Jun_2025-green)](https://bit.ly/Ambrosinus-Toolkit)
 [![GitHub support forum](https://img.shields.io/badge/Support%20forum-Help-critical)](https://discourse.mcneel.com/t/ambrosinus-toolkit/147124)
 [![GitHub license](https://img.shields.io/github/license/lucianoambrosini/Ambrosinus-Toolkit?color=orange)](https://github.com/lucianoambrosini/Ambrosinus-Toolkit/blob/main/LICENSE)
+[![Official Website](https://img.shields.io/badge/Official_Portfolio-lucianoambrosini.it-00e5ff)](https://www.lucianoambrosini.it)
+
+> 🌐 **Official Website & Case Studies**: [www.lucianoambrosini.it](https://www.lucianoambrosini.it) | Author: **Dr. Arch. Luciano Ambrosini**
 
 
 **Ambrosinus Toolkit** is a grasshopper toolset of components and utilities useful for the user's projects - From design to management. *The most trending feature is the possibility to run DALL-E, StabilityAI and Stable Diffusion (WebUI//Automatic 1111 prj) directly inside Grasshopper.* Now you can! Please, read below for more info.
